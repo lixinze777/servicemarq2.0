@@ -1,0 +1,1396 @@
+surname refinedatatraintemp.txt start-----------------------
+Feng B-ORG
+ -> <B-PER>
+Huiling E-ORG
+ -> <E-PER>
+MA S-LOC
+ -> <E-PER>
+MA S-LOC
+ -> <E-PER>
+Yinyan O
+ -> <B-PER>
+Zhang O
+ -> <E-PER>
+Guangming B-ORG
+ -> <B-PER>
+Tan E-ORG
+ -> <E-PER>
+Hai B-ORG
+ -> <B-PER>
+Jin E-ORG
+ -> <E-PER>
+Xianghui B-ORG
+ -> <B-PER>
+Xie E-ORG
+ -> <E-PER>
+Xianhe B-ORG
+ -> <B-PER>
+Sun E-ORG
+ -> <E-PER>
+Bin O
+ -> <B-PER>
+Hu O
+ -> <E-PER>
+Jin B-PER
+ -> <E-PER>
+Qin B-ORG
+ -> <B-PER>
+Lv E-ORG
+ -> <E-PER>
+Gang B-ORG
+ -> <B-PER>
+Pan E-ORG
+ -> <E-PER>
+Xiangshi B-ORG
+ -> <B-PER>
+Ren E-ORG
+ -> <E-PER>
+Xing B-ORG
+ -> <B-PER>
+Xie E-ORG
+ -> <E-PER>
+Zhang S-PER
+ -> <E-PER>
+Cheng S-PER
+ -> <E-PER>
+Limin B-ORG
+ -> <B-PER>
+Sun E-ORG
+ -> <E-PER>
+Gaogang B-ORG
+ -> <B-PER>
+Xie E-ORG
+ -> <E-PER>
+Hai B-ORG
+ -> <B-PER>
+Jin I-ORG
+ -> <E-PER>
+Shirui B-ORG
+ -> <B-PER>
+Pan E-ORG
+ -> <E-PER>
+Jingrui O
+ -> <B-PER>
+He O
+ -> <E-PER>
+Jieping O
+ -> <B-PER>
+Ye O
+ -> <E-PER>
+Ding O
+ -> <E-PER>
+Zhou O
+ -> <E-PER>
+MA S-LOC
+ -> <E-PER>
+Université B-ORG
+ -> <B-PER>
+du I-ORG
+ -> <I-PER>
+Québec I-ORG
+ -> <I-PER>
+en I-ORG
+ -> <I-PER>
+Outaouais E-ORG
+ -> <E-PER>
+Ren O
+ -> <E-PER>
+MA S-LOC
+ -> <E-PER>
+Dong S-PER
+ -> <E-PER>
+He I-PER
+ -> <B-PER>
+Zhong B-LOC
+ -> <B-PER>
+Guan I-LOC
+ -> <I-PER>
+Cun E-LOC
+ -> <E-PER>
+MA S-LOC
+ -> <E-PER>
+Centre O
+ -> <B-PER>
+Scientifique O
+ -> <I-PER>
+et O
+ -> <I-PER>
+Technique O
+ -> <I-PER>
+du O
+ -> <I-PER>
+Batiment O
+ -> <E-PER>
+Longhua B-ORG
+ -> <B-PER>
+Hu E-ORG
+ -> <E-PER>
+Wei B-ORG
+ -> <B-PER>
+LI I-ORG
+ -> <I-PER>
+Beihang I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Ruqian B-ORG
+ -> <B-PER>
+LU I-ORG
+ -> <I-PER>
+Institute I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Mathematics I-ORG
+ -> <E-PER>
+Guoliang B-ORG
+ -> <B-PER>
+CHEN I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Science I-ORG
+ -> <I-PER>
+and I-ORG
+ -> <I-PER>
+Technology I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+China E-ORG
+ -> <E-PER>
+Wenfei B-ORG
+ -> <B-PER>
+FAN I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Edinburgh E-ORG
+ -> <E-PER>
+Jie B-ORG
+ -> <B-PER>
+WU I-ORG
+ -> <I-PER>
+Temple I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+YANG E-PER
+ -> <I-PER>
+The O
+ -> <I-PER>
+Hong B-ORG
+ -> <I-PER>
+Kong I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Science I-ORG
+ -> <I-PER>
+and I-ORG
+ -> <I-PER>
+Technology E-ORG
+ -> <E-PER>
+Qinping B-ORG
+ -> <B-PER>
+ZHAO I-ORG
+ -> <I-PER>
+Beihang I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Zhang B-ORG
+ -> <B-PER>
+XIONG I-ORG
+ -> <I-PER>
+Beihang I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Ke B-ORG
+ -> <B-PER>
+XU I-ORG
+ -> <I-PER>
+Beihang I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+ZHANG I-ORG
+ -> <B-PER>
+Southeast I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Sheng B-ORG
+ -> <B-PER>
+ZHONG I-ORG
+ -> <I-PER>
+Nanjing I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Kun B-ORG
+ -> <B-PER>
+ZHOU I-ORG
+ -> <I-PER>
+Zhejiang I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Cungen B-ORG
+ -> <B-PER>
+CAO I-ORG
+ -> <I-PER>
+Institute I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Computing I-ORG
+ -> <I-PER>
+Technology E-ORG
+ -> <E-PER>
+Jianer B-ORG
+ -> <B-PER>
+CHEN I-ORG
+ -> <I-PER>
+Texas I-ORG
+ -> <I-PER>
+A I-ORG
+ -> <E-PER>
+Songcan B-ORG
+ -> <B-PER>
+CHEN I-ORG
+ -> <I-PER>
+Nanjing I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Aeronautics I-ORG
+ -> <I-PER>
+and I-ORG
+ -> <I-PER>
+Astronautics E-ORG
+ -> <E-PER>
+Xin B-ORG
+ -> <B-PER>
+HE I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <I-PER>
+at O
+ -> <I-PER>
+Buffalo S-LOC
+ -> <E-PER>
+Guoliang B-ORG
+ -> <B-PER>
+LI I-ORG
+ -> <I-PER>
+Tsinghua I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Ming B-ORG
+ -> <B-PER>
+LI I-ORG
+ -> <I-PER>
+Nanjing I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Xiaofeng B-ORG
+ -> <B-PER>
+MENG I-ORG
+ -> <I-PER>
+Renmin I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+China E-ORG
+ -> <E-PER>
+Xiaoming B-ORG
+ -> <B-PER>
+SUN I-ORG
+ -> <I-PER>
+Institute I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Computing I-ORG
+ -> <I-PER>
+Technology E-ORG
+ -> <E-PER>
+Jie B-ORG
+ -> <B-PER>
+TIAN I-ORG
+ -> <I-PER>
+Institute I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Automation E-ORG
+ -> <E-PER>
+Qi B-ORG
+ -> <B-PER>
+TIAN I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Texas E-ORG
+ -> <I-PER>
+at O
+ -> <I-PER>
+San B-LOC
+ -> <I-PER>
+Antonio E-LOC
+ -> <E-PER>
+WANG I-ORG
+ -> <B-PER>
+Institute I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Automation E-ORG
+ -> <E-PER>
+Wenping B-ORG
+ -> <B-PER>
+WANG I-ORG
+ -> <I-PER>
+The I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Hong B-LOC
+ -> <I-PER>
+Kong E-LOC
+ -> <E-PER>
+Ji B-ORG
+ -> <B-PER>
+WANG I-ORG
+ -> <I-PER>
+National I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Defense I-ORG
+ -> <I-PER>
+Technology E-ORG
+ -> <E-PER>
+Baowen B-ORG
+ -> <B-PER>
+XU I-ORG
+ -> <I-PER>
+Nanjing I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Shui B-ORG
+ -> <B-PER>
+YU I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Technology I-ORG
+ -> <I-PER>
+Sydney E-ORG
+ -> <E-PER>
+Xinpeng B-ORG
+ -> <B-PER>
+ZHANG I-ORG
+ -> <I-PER>
+Fudan I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Xiangyu B-ORG
+ -> <B-PER>
+ZHANG I-ORG
+ -> <I-PER>
+Purdue I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Bing B-ORG
+ -> <B-PER>
+Bing I-ORG
+ -> <I-PER>
+Zhou I-ORG
+ -> <I-PER>
+The I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Sydney E-ORG
+ -> <E-PER>
+Aixin B-ORG
+ -> <B-PER>
+Sun E-ORG
+ -> <E-PER>
+Jifeng B-ORG
+ -> <B-PER>
+Dai E-ORG
+ -> <E-PER>
+Boxin B-ORG
+ -> <B-PER>
+Shi E-ORG
+ -> <E-PER>
+National B-ORG
+ -> <B-PER>
+Chung I-ORG
+ -> <I-PER>
+Cheng I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Long B-ORG
+ -> <B-PER>
+Island I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+National B-ORG
+ -> <B-PER>
+Cheng I-ORG
+ -> <I-PER>
+Kung I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Jason I-PER
+ -> <B-PER>
+huang O
+ -> <E-PER>
+Li I-ORG
+ -> <E-PER>
+Xu I-ORG
+ -> <E-PER>
+Li I-ORG
+ -> <E-PER>
+Wu I-ORG
+ -> <E-PER>
+Sun E-ORG
+ -> <E-PER>
+Jingling B-ORG
+ -> <B-PER>
+Xue E-ORG
+ -> <E-PER>
+Li I-ORG
+ -> <E-PER>
+Li I-ORG
+ -> <E-PER>
+Hong B-ORG
+ -> <B-PER>
+Qin E-ORG
+ -> <E-PER>
+Zhang E-ORG
+ -> <E-PER>
+Lv I-ORG
+ -> <E-PER>
+Huang E-ORG
+ -> <E-PER>
+Yu I-ORG
+ -> <E-PER>
+Bingsheng B-ORG
+ -> <B-PER>
+He E-ORG
+ -> <E-PER>
+Feifei B-ORG
+ -> <B-PER>
+Li I-ORG
+ -> <E-PER>
+Hua B-ORG
+ -> <B-PER>
+Lu I-ORG
+ -> <E-PER>
+Meng E-ORG
+ -> <E-PER>
+Xindong B-ORG
+ -> <B-PER>
+Wu E-ORG
+ -> <E-PER>
+Sun E-ORG
+ -> <E-PER>
+Jianer B-ORG
+ -> <B-PER>
+Chen E-ORG
+ -> <E-PER>
+Gang B-ORG
+ -> <B-PER>
+Pan E-ORG
+ -> <E-PER>
+Jia I-ORG
+ -> <E-PER>
+Liu E-ORG
+ -> <E-PER>
+Gao I-ORG
+ -> <E-PER>
+Chang B-ORG
+ -> <B-PER>
+Xu I-ORG
+ -> <E-PER>
+Xin O
+ -> <B-PER>
+HU O
+ -> <E-PER>
+MA S-LOC
+ -> <E-PER>
+Beijing B-ORG
+ -> <B-PER>
+Chen E-ORG
+ -> <E-PER>
+Debiao O
+ -> <B-PER>
+He O
+ -> <E-PER>
+Linqiang B-ORG
+ -> <B-PER>
+Pan E-ORG
+ -> <E-PER>
+Chen O
+ -> <E-PER>
+Chen O
+ -> <E-PER>
+Qin O
+ -> <E-PER>
+Wang O
+ -> <E-PER>
+Zhang O
+ -> <E-PER>
+Zhou O
+ -> <E-PER>
+Université B-ORG
+ -> <B-PER>
+du I-ORG
+ -> <I-PER>
+Luxembourg E-ORG
+ -> <E-PER>
+Hu O
+ -> <E-PER>
+National B-ORG
+ -> <B-PER>
+Cheng I-ORG
+ -> <I-PER>
+Kung I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Shipeng O
+ -> <B-PER>
+Li O
+ -> <E-PER>
+Chang B-ORG
+ -> <B-PER>
+Hong I-ORG
+ -> <I-PER>
+Lin E-ORG
+ -> <E-PER>
+Ming B-ORG
+ -> <B-PER>
+Ting I-ORG
+ -> <I-PER>
+Sun E-ORG
+ -> <E-PER>
+National B-ORG
+ -> <B-PER>
+Sun I-ORG
+ -> <E-PER>
+Yao O
+ -> <E-PER>
+Huiping B-ORG
+ -> <B-PER>
+Cao I-ORG
+ -> <E-PER>
+Qun O
+ -> <B-PER>
+Liu O
+ -> <E-PER>
+Linli B-ORG
+ -> <B-PER>
+Xu E-ORG
+ -> <E-PER>
+National B-ORG
+ -> <B-PER>
+Cheng I-ORG
+ -> <I-PER>
+Kung I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Shi O
+ -> <E-PER>
+Xu O
+ -> <E-PER>
+Changsheng O
+ -> <B-PER>
+Xu O
+ -> <E-PER>
+Yong B-ORG
+ -> <B-PER>
+Dong I-ORG
+ -> <I-PER>
+Zhang E-ORG
+ -> <E-PER>
+Changsheng O
+ -> <B-PER>
+Xu O
+ -> <E-PER>
+Ce O
+ -> <B-PER>
+Zhu O
+ -> <E-PER>
+Changyin O
+ -> <B-PER>
+Sun O
+ -> <E-PER>
+Bai S-PER
+ -> <E-PER>
+Liangcai O
+ -> <B-PER>
+Cao O
+ -> <E-PER>
+li O
+ -> <E-PER>
+Cao O
+ -> <E-PER>
+Shen O
+ -> <E-PER>
+Ming O
+ -> <B-PER>
+Xia O
+ -> <E-PER>
+Changyuan O
+ -> <B-PER>
+Yu O
+ -> <E-PER>
+Qinping B-ORG
+ -> <B-PER>
+ZHAO E-ORG
+ -> <E-PER>
+Jiannong B-ORG
+ -> <B-PER>
+CAO E-ORG
+ -> <E-PER>
+CHEN S-PER
+ -> <E-PER>
+Philip I-PER
+ -> <B-PER>
+Hong B-LOC
+ -> <B-PER>
+CHEN E-LOC
+ -> <E-PER>
+Xiangfeng B-ORG
+ -> <B-PER>
+DUAN E-ORG
+ -> <E-PER>
+Jiancheng B-ORG
+ -> <B-PER>
+FANG E-ORG
+ -> <E-PER>
+Thomas I-PER
+ -> <B-PER>
+Zhenjiang B-ORG
+ -> <B-PER>
+HU E-ORG
+ -> <E-PER>
+Xuelong B-ORG
+ -> <B-PER>
+LI E-ORG
+ -> <E-PER>
+Dongdai B-ORG
+ -> <B-PER>
+LIN E-ORG
+ -> <E-PER>
+Yungang B-ORG
+ -> <B-PER>
+LIU E-ORG
+ -> <E-PER>
+Wei B-ORG
+ -> <B-PER>
+D I-ORG
+ -> <E-PER>
+LU O
+ -> <E-PER>
+PAN S-ORG
+ -> <E-PER>
+PAN E-ORG
+ -> <E-PER>
+Quan B-ORG
+ -> <B-PER>
+PAN E-ORG
+ -> <E-PER>
+Yikai B-ORG
+ -> <B-PER>
+SU E-ORG
+ -> <E-PER>
+Min B-ORG
+ -> <B-PER>
+TAN E-ORG
+ -> <E-PER>
+WANG E-ORG
+ -> <E-PER>
+Jiangzhou B-ORG
+ -> <B-PER>
+WANG E-ORG
+ -> <E-PER>
+Yongliang B-ORG
+ -> <B-PER>
+WANG E-ORG
+ -> <E-PER>
+Zidong B-ORG
+ -> <B-PER>
+WANG E-ORG
+ -> <E-PER>
+XIA E-ORG
+ -> <E-PER>
+Lihua B-ORG
+ -> <B-PER>
+XIE E-ORG
+ -> <E-PER>
+Zongben B-ORG
+ -> <B-PER>
+XU E-ORG
+ -> <E-PER>
+Zhongshan B-ORG
+ -> <B-PER>
+ZHANG E-ORG
+ -> <E-PER>
+ZHENG E-ORG
+ -> <E-PER>
+Donghua B-ORG
+ -> <B-PER>
+ZHOU E-ORG
+ -> <E-PER>
+Yurii O
+ -> <B-PER>
+Yu O
+ -> <E-PER>
+Zhang O
+ -> <E-PER>
+Cai S-PER
+ -> <E-PER>
+Cui O
+ -> <E-PER>
+Zhang S-PER
+ -> <E-PER>
+Zhang O
+ -> <E-PER>
+Ying B-ORG
+ -> <B-PER>
+Ding I-ORG
+ -> <I-PER>
+Indiana I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Université B-ORG
+ -> <B-PER>
+du I-ORG
+ -> <I-PER>
+Québec I-ORG
+ -> <I-PER>
+en I-ORG
+ -> <I-PER>
+Outaouais E-ORG
+ -> <E-PER>
+Zhu S-PER
+ -> <E-PER>
+Cheng S-PER
+ -> <E-PER>
+National B-ORG
+ -> <B-PER>
+Cheng I-ORG
+ -> <I-PER>
+Kung I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Sun B-ORG
+ -> <E-PER>
+Sun B-ORG
+ -> <E-PER>
+Sun B-ORG
+ -> <E-PER>
+mao O
+ -> <E-PER>
+Song O
+ -> <E-PER>
+MA S-LOC
+ -> <E-PER>
+Wenfei S-PER
+ -> <B-PER>
+Fan O
+ -> <E-PER>
+huang O
+ -> <E-PER>
+MA S-LOC
+ -> <E-PER>
+MA S-LOC
+ -> <E-PER>
+surname refinedatatraintemp.txt processed-----------------------
+surname refinedatatesttemp.txt start-----------------------
+MA S-LOC
+ -> <E-PER>
+Ninghui B-ORG
+ -> <B-PER>
+Sun E-ORG
+ -> <E-PER>
+Xing B-ORG
+ -> <B-PER>
+Cai E-ORG
+ -> <E-PER>
+Xiangyang B-ORG
+ -> <B-PER>
+Li E-ORG
+ -> <E-PER>
+Richard I-PER
+ -> <B-PER>
+Wen B-ORG
+ -> <B-PER>
+GAO I-ORG
+ -> <I-PER>
+Peking I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Wei B-ORG
+ -> <B-PER>
+ZHAO I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Macau E-ORG
+ -> <E-PER>
+Jian B-ORG
+ -> <B-PER>
+ZHANG I-ORG
+ -> <I-PER>
+Institute I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Software E-ORG
+ -> <E-PER>
+Weisong B-ORG
+ -> <B-PER>
+Shi E-ORG
+ -> <E-PER>
+Jian B-ORG
+ -> <B-PER>
+Lv I-ORG
+ -> <E-PER>
+Li I-ORG
+ -> <E-PER>
+MA S-LOC
+ -> <E-PER>
+Chang B-PER
+ -> <E-PER>
+Chang S-PER
+ -> <E-PER>
+Fu O
+ -> <E-PER>
+Han O
+ -> <E-PER>
+Lai O
+ -> <E-PER>
+Ren O
+ -> <E-PER>
+Wang O
+ -> <E-PER>
+Wu O
+ -> <E-PER>
+Zhao O
+ -> <E-PER>
+li O
+ -> <E-PER>
+ZHANG I-ORG
+ -> <E-PER>
+LIANG E-ORG
+ -> <E-PER>
+Teng B-ORG
+ -> <B-PER>
+LONG E-ORG
+ -> <E-PER>
+Fuchun B-ORG
+ -> <B-PER>
+SUN E-ORG
+ -> <E-PER>
+Zhengwei B-ORG
+ -> <B-PER>
+ZHOU E-ORG
+ -> <E-PER>
+Chen O
+ -> <E-PER>
+Wang O
+ -> <E-PER>
+Xiaoming B-ORG
+ -> <B-PER>
+Fu E-ORG
+ -> <E-PER>
+zheng O
+ -> <E-PER>
+surname refinedatatesttemp.txt processed-----------------------
+surname refinedatadevtemp.txt start-----------------------
+Chengzheng B-ORG
+ -> <B-PER>
+Sun E-ORG
+ -> <E-PER>
+Jifeng B-ORG
+ -> <B-PER>
+HE I-ORG
+ -> <I-PER>
+East I-ORG
+ -> <I-PER>
+China I-ORG
+ -> <I-PER>
+Normal I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+ZHOU I-ORG
+ -> <B-PER>
+Nanjing I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Xiang B-ORG
+ -> <B-PER>
+BAI I-ORG
+ -> <I-PER>
+Huazhong I-ORG
+ -> <I-PER>
+University I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Science I-ORG
+ -> <I-PER>
+and I-ORG
+ -> <I-PER>
+Technology E-ORG
+ -> <E-PER>
+Guihai B-ORG
+ -> <B-PER>
+Chen I-ORG
+ -> <I-PER>
+Nanjing I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Dengguo B-ORG
+ -> <B-PER>
+FENG I-ORG
+ -> <I-PER>
+Institute I-ORG
+ -> <I-PER>
+of I-ORG
+ -> <I-PER>
+Software E-ORG
+ -> <E-PER>
+Keqiu B-ORG
+ -> <B-PER>
+LI I-ORG
+ -> <I-PER>
+Tianjin I-ORG
+ -> <I-PER>
+University E-ORG
+ -> <E-PER>
+Chen O
+ -> <B-PER>
+Change O
+ -> <I-PER>
+Loy O
+ -> <E-PER>
+Liu I-ORG
+ -> <E-PER>
+Chen E-ORG
+ -> <E-PER>
+Peng I-ORG
+ -> <E-PER>
+Fa B-ORG
+ -> <B-PER>
+Zhang I-ORG
+ -> <E-PER>
+Yun O
+ -> <B-PER>
+He O
+ -> <E-PER>
+Wu O
+ -> <E-PER>
+Jun O
+ -> <B-PER>
+Hu O
+ -> <E-PER>
+Université B-ORG
+ -> <B-PER>
+du I-ORG
+ -> <I-PER>
+Littoral E-ORG
+ -> <E-PER>
+Shen S-ORG
+ -> <E-PER>
+Qinyu B-ORG
+ -> <B-PER>
+ZHANG E-ORG
+ -> <E-PER>
+Yijun B-ORG
+ -> <B-PER>
+Yu I-ORG
+ -> <E-PER>
+Chen S-PER
+ -> <E-PER>
+surname refinedatadevtemp.txt processed-----------------------
+org refinedatatrain.txt start-----------------------
+Science I-ORG
+ -> <E-ORG>
+Arts E-ORG
+ -> <I-ORG>
+of O
+ -> <I-ORG>
+Sao B-LOC
+ -> <I-ORG>
+Paulo E-LOC
+ -> <E-ORG>
+Institute E-ORG
+ -> <I-ORG>
+at O
+ -> <I-ORG>
+Chicago S-LOC
+ -> <E-ORG>
+of I-ORG
+ -> <E-ORG>
+Institute O
+ -> <E-ORG>
+Institute I-ORG
+ -> <B-ORG>
+Institute O
+ -> <B-ORG>
+of O
+ -> <I-ORG>
+Linguistics O
+ -> <E-ORG>
+RIKEN O
+ -> <B-ORG>
+Advanced O
+ -> <I-ORG>
+Institute O
+ -> <I-ORG>
+for O
+ -> <I-ORG>
+Computational O
+ -> <I-ORG>
+Science O
+ -> <E-ORG>
+ef O
+ -> <B-ORG>
+Stefan B-ORG
+ -> <I-ORG>
+ef O
+ -> <B-ORG>
+Stefan B-ORG
+ -> <I-ORG>
+ef O
+ -> <B-ORG>
+Stefan B-ORG
+ -> <I-ORG>
+Institute O
+ -> <B-ORG>
+for O
+ -> <I-ORG>
+Problems O
+ -> <I-ORG>
+of O
+ -> <I-ORG>
+Information O
+ -> <I-ORG>
+Transmission O
+ -> <E-ORG>
+Institute I-ORG
+ -> <B-ORG>
+Astrophysics I-ORG
+ -> <E-ORG>
+Ruqian B-PER
+ -> <B-ORG>
+LU I-PER
+ -> <I-ORG>
+Institute I-PER
+ -> <I-ORG>
+of I-PER
+ -> <I-ORG>
+Mathematics E-PER
+ -> <E-ORG>
+Cungen B-PER
+ -> <B-ORG>
+CAO I-PER
+ -> <I-ORG>
+Institute I-PER
+ -> <I-ORG>
+of I-PER
+ -> <I-ORG>
+Computing I-PER
+ -> <I-ORG>
+Technology E-PER
+ -> <E-ORG>
+Xiaoming B-PER
+ -> <B-ORG>
+SUN I-PER
+ -> <I-ORG>
+Institute I-PER
+ -> <I-ORG>
+of I-PER
+ -> <I-ORG>
+Computing I-PER
+ -> <I-ORG>
+Technology E-PER
+ -> <E-ORG>
+Jie B-PER
+ -> <B-ORG>
+TIAN I-PER
+ -> <I-ORG>
+Institute I-PER
+ -> <I-ORG>
+of I-PER
+ -> <I-ORG>
+Automation E-PER
+ -> <E-ORG>
+WANG B-PER
+ -> <B-ORG>
+Institute I-PER
+ -> <I-ORG>
+of I-PER
+ -> <I-ORG>
+Automation E-PER
+ -> <E-ORG>
+Institute I-ORG
+ -> <B-ORG>
+in I-ROLE
+ -> <I-ORG>
+in I-ROLE
+ -> <I-ORG>
+in I-ROLE
+ -> <I-ORG>
+in I-ROLE
+ -> <I-ORG>
+Institute I-ORG
+ -> <B-ORG>
+Institute I-ORG
+ -> <B-ORG>
+Institute I-ORG
+ -> <B-ORG>
+Mathematics E-ORG
+ -> <I-ORG>
+of O
+ -> <I-ORG>
+the O
+ -> <I-ORG>
+Romanian B-ORG
+ -> <I-ORG>
+Science E-ORG
+ -> <I-ORG>
+in I-ROLE
+ -> <I-ORG>
+Lyon S-LOC
+ -> <E-ORG>
+Stefan I-PER
+ -> <B-ORG>
+Institute E-PER
+ -> <E-ORG>
+Josef B-PER
+ -> <B-ORG>
+Stefan I-PER
+ -> <I-ORG>
+Institute E-PER
+ -> <E-ORG>
+Institute O
+ -> <E-ORG>
+Mathematics E-ORG
+ -> <I-ORG>
+of O
+ -> <I-ORG>
+the O
+ -> <I-ORG>
+Romanian B-ORG
+ -> <I-ORG>
+Josef B-PER
+ -> <B-ORG>
+Stefan I-PER
+ -> <I-ORG>
+Institute E-PER
+ -> <E-ORG>
+Technology E-ORG
+ -> <I-ORG>
+at O
+ -> <I-ORG>
+Weihai S-LOC
+ -> <E-ORG>
+Institute E-ORG
+ -> <I-ORG>
+for O
+ -> <I-ORG>
+System O
+ -> <I-ORG>
+Analysis O
+ -> <I-ORG>
+of O
+ -> <I-ORG>
+the O
+ -> <I-ORG>
+Russian B-ORG
+ -> <I-ORG>
+Analysis E-ORG
+ -> <I-ORG>
+of O
+ -> <I-ORG>
+the O
+ -> <I-ORG>
+Russian B-ORG
+ -> <I-ORG>
+Analysis E-ORG
+ -> <I-ORG>
+of O
+ -> <I-ORG>
+the O
+ -> <I-ORG>
+Russian B-ORG
+ -> <I-ORG>
+Institute O
+ -> <B-ORG>
+of O
+ -> <I-ORG>
+Higher O
+ -> <I-ORG>
+Nervous O
+ -> <I-ORG>
+Activity O
+ -> <I-ORG>
+and O
+ -> <I-ORG>
+Neurophysiology O
+ -> <I-ORG>
+of O
+ -> <I-ORG>
+RAS O
+ -> <E-ORG>
+Skobeltsyn I-ORG
+ -> <B-ORG>
+Vision E-ORG
+ -> <I-ORG>
+and O
+ -> <I-ORG>
+Applied O
+ -> <I-ORG>
+Computer O
+ -> <I-ORG>
+Sciences O
+ -> <E-ORG>
+Institute I-ORG
+ -> <B-ORG>
+Institute O
+ -> <B-ORG>
+for O
+ -> <I-ORG>
+Scientific O
+ -> <I-ORG>
+and O
+ -> <I-ORG>
+Technical O
+ -> <I-ORG>
+Inormation O
+ -> <E-ORG>
+Research E-ORG
+ -> <I-ORG>
+IGD O
+ -> <E-ORG>
+Informatics I-ORG
+ -> <B-ORG>
+Shenzhen I-ORG
+ -> <B-ORG>
+Institute I-ORG
+ -> <E-ORG>
+of I-ORG
+ -> <E-ORG>
+Institute I-ORG
+ -> <B-ORG>
+Science I-ORG
+ -> <E-ORG>
+org refinedatatrain.txt processed-----------------------
+org refinedatatest.txt start-----------------------
+Global O
+ -> <B-ORG>
+Catastrophic O
+ -> <I-ORG>
+Risk O
+ -> <I-ORG>
+Institute O
+ -> <E-ORG>
+Jozef B-PER
+ -> <B-ORG>
+Stefan I-PER
+ -> <I-ORG>
+Institute E-PER
+ -> <E-ORG>
+Informatics E-ORG
+ -> <I-ORG>
+and O
+ -> <I-ORG>
+Saarland B-ORG
+ -> <I-ORG>
+Jian B-PER
+ -> <B-ORG>
+ZHANG I-PER
+ -> <I-ORG>
+Institute I-PER
+ -> <I-ORG>
+of I-PER
+ -> <I-ORG>
+Software E-PER
+ -> <E-ORG>
+Institute E-ORG
+ -> <I-ORG>
+FGI O
+ -> <E-ORG>
+of I-ORG
+ -> <E-ORG>
+Logic I-ORG
+ -> <E-ORG>
+org refinedatatest.txt processed-----------------------
+org refinedatadev.txt start-----------------------
+Oxford E-ORG
+ -> <I-ORG>
+and O
+ -> <I-ORG>
+The B-ORG
+ -> <I-ORG>
+Dengguo B-PER
+ -> <B-ORG>
+FENG I-PER
+ -> <I-ORG>
+Institute I-PER
+ -> <I-ORG>
+of I-PER
+ -> <I-ORG>
+Software E-PER
+ -> <E-ORG>
+Institute I-ORG
+ -> <B-ORG>
+org refinedatadev.txt processed-----------------------
