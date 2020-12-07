@@ -1,0 +1,7719 @@
+giusti O
+@ O
+
+Syracuse S-LOC
+, O
+NY S-LOC
+13244-4100 O
+, O
+USA S-LOC
+
+SPAIN S-LOC
+
+hderksen O
+@ O
+
+<b> O
+Deepak B-PER
+Kapur E-PER
+
+Palaiseau S-LOC
+, O
+France S-LOC
+
+KIT S-LOC
+, O
+Karlsruhe S-LOC
+, O
+Germany S-LOC
+
+kus O
+@ O
+
+<b> O
+Pablo B-PER
+Solerno E-PER
+
+<b> O
+Henning B-PER
+Fernau E-PER
+</b> O
+, O
+Universität B-PER
+Trier E-PER
+, O
+Germany S-LOC
+
+<b> O
+Gerwin B-PER
+Klein E-PER
+</b> O
+, O
+NICTA S-LOC
+, O
+Kensington S-LOC
+, O
+and O
+University B-ORG
+of I-ORG
+New I-ORG
+South I-ORG
+Wales E-ORG
+, O
+Sydney S-LOC
+, O
+Australia S-LOC
+
+<b> O
+<i> O
+Founding B-ROLE
+Editors ROLE
+</i> O
+
+<b> O
+Friedrich B-PER
+L. I-PER
+Bauer E-PER
+</b> O
+, O
+Technische B-ORG
+Universität I-ORG
+München E-ORG
+, O
+Germany S-LOC
+
+<i> O
+<b> O
+Senior B-ROLE
+Associate BI-ROLE
+Editor ROLE
+
+<b> O
+Rita B-PER
+Osadchy E-PER
+</b> O
+( O
+University B-ORG
+of I-ORG
+Haifa E-ORG
+
+<b> O
+Onn B-PER
+Shehory E-PER
+</b> O
+( O
+Bar-Ilan B-ORG
+University E-ORG
+, O
+Israel S-LOC
+
+CMS B-ORG
+Faculty I-ORG
+of I-ORG
+Music E-ORG
+, O
+University B-ORG
+of I-ORG
+Cambridge E-ORG
+, O
+UK S-LOC
+
+</b> O
+De B-ORG
+Montfort I-ORG
+University E-ORG
+, O
+UK S-LOC
+
+Associate BI-ROLE
+Editors ROLE
+
+email O
+: O
+organ30001 O
+@ O
+
+<b> O
+Daniel B-PER
+Dennett E-PER
+, O
+</b> O
+Tufts B-ORG
+University E-ORG
+, O
+Medford S-LOC
+, O
+MA S-LOC
+, O
+USA S-LOC
+
+<b> O
+Ivan B-PER
+da I-PER
+Costa I-PER
+Marques E-PER
+, O
+</b> O
+Federal B-ORG
+University I-ORG
+of I-ORG
+Rio B-LOC
+de I-LOC
+Janeiro E-LOC
+, O
+Brazil S-LOC
+
+<b> O
+Parthasarathi B-PER
+Banerjee E-PER
+, O
+</b> O
+International B-ORG
+Management I-ORG
+Institute E-ORG
+, O
+New B-LOC
+Delhi E-LOC
+
+<b> O
+Seth B-PER
+D. I-PER
+Baum E-PER
+, O
+</b> O
+Global O
+Catastrophic O
+Risk O
+Institute O
+, O
+USA S-LOC
+
+<b> O
+Nic B-PER
+Bidwell E-PER
+, O
+</b> O
+The O
+International B-ORG
+University I-ORG
+of I-ORG
+Management E-ORG
+, O
+Namibia S-LOC
+
+<b> O
+Ghislaine B-PER
+Boddington E-PER
+, O
+</b> O
+body O
+& O
+gt O
+; O
+data O
+& O
+gt O
+; O
+space O
+, O
+UK S-LOC
+
+<b> O
+Stephen B-PER
+Cowley E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Southern I-ORG
+Denmark E-ORG
+, O
+Denmark S-LOC
+
+<b> O
+Georgi B-PER
+Marko I-PER
+Dimirovski E-PER
+, O
+</b> O
+St. B-LOC
+Cyril E-LOC
+and O
+St. B-LOC
+Methodius I-LOC
+University I-LOC
+of I-LOC
+Skopje E-LOC
+, O
+Republic B-LOC
+of I-LOC
+Macedonia E-LOC
+
+<b> O
+Alla B-PER
+G. I-PER
+Kravets E-PER
+, O
+</b> O
+Volgograd B-ORG
+State I-ORG
+Technical I-ORG
+University E-ORG
+, O
+Russia S-LOC
+
+<b> O
+Aldo B-PER
+de I-PER
+Moor E-PER
+, O
+</b> O
+CommunitySense S-LOC
+, O
+The B-LOC
+Netherlands E-LOC
+
+<b> O
+Tao B-PER
+Jiang E-PER
+</b> O
+, O
+<i> O
+University B-ORG
+of I-ORG
+California E-ORG
+, O
+Riverside S-LOC
+, O
+USA S-LOC
+
+<b> O
+Rafail B-PER
+Ostrovsky E-PER
+</b> O
+, O
+<i> O
+University B-ORG
+of I-ORG
+California E-ORG
+, O
+Los B-LOC
+Angeles E-LOC
+, O
+USA S-LOC
+
+<b> O
+Robert B-PER
+Sedgewick E-PER
+</b> O
+, O
+<i> O
+Princeton B-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Chris B-PER
+Umans E-PER
+</b> O
+, O
+<i> O
+California B-ORG
+Institute I-ORG
+of I-ORG
+Technology E-ORG
+, O
+USA S-LOC
+
+</i> O
+</b> O
+<i> O
+Guido B-PER
+Governatori E-PER
+</i> O
+, O
+NICTA O
+, O
+Australia S-LOC
+
+<b> O
+<i> O
+E-government O
+and O
+Lawyering O
+
+</i> O
+</b> O
+<i> O
+Erich B-PER
+Schweighofer E-PER
+</i> O
+, O
+University B-ORG
+of I-ORG
+Vienna E-ORG
+, O
+Austria S-LOC
+
+<i> O
+Graham B-PER
+Greenleaf E-PER
+</i> O
+, O
+University B-ORG
+of I-ORG
+New I-ORG
+South I-ORG
+Wales E-ORG
+, O
+Australia S-LOC
+
+<i> O
+Jeroen B-PER
+Keppens E-PER
+</i> O
+, O
+King B-ORG
+’s I-ORG
+College I-ORG
+London E-ORG
+, O
+UK S-LOC
+
+<i> O
+Vern B-PER
+R. I-PER
+Walker E-PER
+</i> O
+, O
+Maurice B-ORG
+A. I-ORG
+Deane I-ORG
+School I-ORG
+of I-ORG
+Law E-ORG
+at O
+Hofstra B-ORG
+University E-ORG
+, O
+Hempstead S-LOC
+, O
+NY S-LOC
+, O
+USA S-LOC
+
+<i> O
+John B-PER
+Zeleznikow E-PER
+</i> O
+, O
+Victoria B-ORG
+University E-ORG
+, O
+Australia S-LOC
+
+Thomas B-PER
+S. I-PER
+Ray E-PER
+, O
+Oklahoma S-LOC
+, O
+USA S-LOC
+
+Yong-Guang B-PER
+Zhang E-PER
+, O
+Beijing S-LOC
+, O
+China S-LOC
+
+Takayasu B-PER
+Fuchida E-PER
+, O
+Kagoshima S-LOC
+, O
+Japan S-LOC
+
+Hee-Hyol B-PER
+Lee E-PER
+, O
+Kitakyushu S-LOC
+, O
+Japan S-LOC
+
+Henrik B-PER
+Hautop I-PER
+Lund E-PER
+, O
+Odense S-LOC
+, O
+Denmark S-LOC
+
+Shinichi B-PER
+Sagara E-PER
+, O
+Kitakyushu S-LOC
+, O
+Japan S-LOC
+
+Sigeru B-PER
+Omatu E-PER
+, O
+Osaka S-LOC
+, O
+Japan S-LOC
+
+Steen B-PER
+Rasmussen E-PER
+, O
+Santa B-LOC
+Fe E-LOC
+, O
+USA S-LOC
+
+<div O
+id O
+=" O
+editorialboard ROLE
+" O
+class O
+=" O
+placeholder O
+placeholder-editorialBoard O
+u-text-sans-serif O
+"> O
+
+<b> O
+Associate BI-ROLE
+Editors ROLE
+: O
+
+<b> O
+Vincent B-PER
+Conitzer E-PER
+</b> O
+, O
+Duke B-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Lluís B-PER
+Godo E-PER
+</b> O
+, O
+Spanish B-ORG
+National I-ORG
+Research I-ORG
+Council E-ROLE
+, O
+SPAIN S-LOC
+
+<b> O
+Chunyan B-PER
+Miao E-PER
+, O
+</b> O
+Nanyang B-ORG
+Technological I-ORG
+University E-ORG
+, O
+SINGAPORE S-LOC
+
+<b> O
+Paul B-PER
+Scerri E-PER
+</b> O
+, O
+Carnegie B-ORG
+Mellon I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Jaime B-PER
+Simão I-PER
+Sichman E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+São B-LOC
+Paulo E-LOC
+, O
+BRAZIL S-LOC
+
+<b> O
+Pingzhong B-PER
+Tang E-PER
+</b> O
+, O
+Tsinghua B-ORG
+University E-ORG
+, O
+CHINA S-LOC
+
+<b> O
+Gerhard B-PER
+Weiss E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Maastricht E-ORG
+, O
+THE B-LOC
+NETHERLANDS E-LOC
+
+<b> O
+Robert B-PER
+J. I-PER
+Hall E-PER
+
+</i> O
+<b> O
+Gerhard B-PER
+Fischer E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Colorado E-ORG
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Michael B-PER
+Jackson E-PER
+, O
+</b> O
+<i> O
+The O
+Open B-ORG
+University E-ORG
+, O
+UK S-LOC
+
+</i> O
+<b> O
+Michael B-PER
+R. I-PER
+Lowry E-PER
+, O
+</b> O
+<i> O
+NASA B-ORG
+Ames I-ORG
+Research I-ORG
+Center E-ORG
+, O
+USA S-LOC
+
+<b> O
+Nora B-PER
+Ayanian E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Southern I-ORG
+California E-ORG
+, O
+USA S-LOC
+
+<b> O
+Yoky B-PER
+Matsuoka E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Washington E-ORG
+, O
+USA S-LOC
+
+</b> O
+Guangdong B-ORG
+University I-ORG
+of I-ORG
+Technology E-ORG
+, O
+Guangzhou S-LOC
+, O
+China S-LOC
+, O
+and O
+University B-ORG
+of I-ORG
+Illinois E-ORG
+at O
+Chicago S-LOC
+, O
+USA S-LOC
+
+Associate BI-ROLE
+Editors ROLE
+</i> O
+
+<b> O
+Erik B-PER
+Cambria E-PER
+
+<b> O
+Amir B-PER
+Hussain E-PER
+
+<b> O
+Takayuki B-PER
+Ito E-PER
+
+</b> O
+The O
+Chinese B-ORG
+University I-ORG
+of I-ORG
+Hong B-LOC
+Kong E-LOC
+, O
+China S-LOC
+
+Zuoning B-PER
+Chen E-PER
+, O
+National B-ORG
+Research I-ORG
+Center I-ORG
+of I-ORG
+Parallel I-ORG
+Computer I-ORG
+Engineering I-ORG
+and I-ORG
+Technology E-ORG
+, O
+China S-LOC
+
+Ninghui B-ORG
+Sun E-ORG
+, O
+Chinese B-ORG
+Academy I-ORG
+of I-ORG
+Sciences E-ORG
+, O
+China S-LOC
+
+Xing B-ORG
+Cai E-ORG
+, O
+Simula B-ORG
+Research I-ORG
+Lab E-ORG
+and O
+University B-ORG
+of I-ORG
+Oslo E-ORG
+, O
+Norway S-LOC
+
+Dan B-PER
+Feng E-PER
+, O
+Huazhong B-ORG
+University I-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology E-ORG
+, O
+China S-LOC
+
+Xiaosong B-PER
+Ma E-PER
+, O
+North B-ORG
+Carolina I-ORG
+State I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+Jiannong B-PER
+Cao E-PER
+, O
+The B-ORG
+Hong I-ORG
+Kong I-ORG
+Polytechnic I-ORG
+University E-ORG
+, O
+China S-LOC
+
+Dakuo B-PER
+Wang E-PER
+, O
+IBM B-ORG
+T.J E-ORG
+. O
+Watson B-ORG
+Research I-ORG
+Center E-ORG
+, O
+USA S-LOC
+
+Xing-Dong B-PER
+Yang E-PER
+, O
+Dartmouth B-ORG
+College E-ORG
+, O
+USA S-LOC
+
+<b> O
+Founding B-ROLE
+Editors ROLE
+
+Katja B-PER
+Kircher E-PER
+, O
+VTI S-ORG
+( O
+Swedish B-ORG
+National I-ORG
+Road I-ORG
+and I-ORG
+Transport I-ORG
+Research I-ORG
+Institute E-ORG
+) O
+, O
+Sweden S-LOC
+
+Michel B-PER
+A I-PER
+Masson E-PER
+, O
+European B-ORG
+Union I-ORG
+Aviation I-ORG
+Safety I-ORG
+Agency E-ORG
+, O
+Germany S-LOC
+
+David B-PER
+D I-PER
+Woods E-PER
+, O
+Ohio B-ORG
+State I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Editors-in-Chief ROLE
+: O
+
+Falko B-PER
+Dressler E-PER
+, O
+University B-ORG
+of I-ORG
+Paderborn E-ORG
+, O
+Germany S-LOC
+
+Lixin B-PER
+Gao E-PER
+, O
+University B-ORG
+of I-ORG
+Massachusetts I-ORG
+Amherst E-ORG
+, O
+USA S-LOC
+
+Xiangyang B-ORG
+Li E-ORG
+, O
+University B-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology I-ORG
+of I-ORG
+China E-ORG
+, O
+China S-LOC
+
+Xing B-PER
+Li E-PER
+, O
+Tsinghua B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Radu B-PER
+Stoleru E-PER
+, O
+Texas B-ORG
+A I-ORG
+& I-ORG
+amp I-ORG
+; I-ORG
+M I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+Weichao B-PER
+Wang E-PER
+, O
+University B-ORG
+of I-ORG
+North I-ORG
+Carolina E-ORG
+at O
+Charlotte S-LOC
+, O
+USA S-LOC
+
+<b> O
+<i> O
+Book B-ROLE
+Review BI-ROLE
+Editor ROLE
+: O
+</i> O
+
+<b> O
+<i> O
+Editorial B-ROLE
+Advisory BI-ROLE
+Board E-ROLE
+
+<b> O
+Geoffrey B-PER
+C. I-PER
+Bowker E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+California E-ORG
+, O
+Irvine S-LOC
+, O
+USA S-LOC
+
+<b> O
+Elihu O
+</b> O
+<b> O
+Gerson S-PER
+, O
+</b> O
+Tremont B-ORG
+Research I-ORG
+Institute E-ORG
+, O
+USA S-LOC
+
+<b> O
+Antonietta B-PER
+Grasso E-PER
+, O
+</b> O
+Naver B-ORG
+Labs I-ORG
+Europe E-ORG
+, O
+France S-LOC
+
+<b> O
+Paul B-PER
+K. I-PER
+Luff E-PER
+, O
+</b> O
+King O
+’s O
+College O
+London S-LOC
+, O
+UK S-LOC
+
+<b> O
+Giorgio B-PER
+De I-PER
+Michelis E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Milano-Bicocca E-ORG
+, O
+Italy S-LOC
+
+Carman B-PER
+Neustaedter E-PER
+</b> O
+, O
+Simon B-PER
+Fraser E-PER
+University O
+, O
+Canada S-LOC
+
+<b> O
+Volker B-PER
+Wulf E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Siegen E-ORG
+, O
+Germany S-LOC
+
+<div O
+id O
+=" O
+editorialboard ROLE
+" O
+class O
+=" O
+placeholder O
+placeholder-editorialBoard O
+u-text-sans-serif O
+"> O
+
+Harald B-PER
+C. I-PER
+Gall E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Zurich E-ORG
+
+<b> O
+George B-PER
+Pallis E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Cyprus E-ORG
+, O
+Nicosia S-LOC
+
+<b> O
+Sabri B-PER
+Pllana E-PER
+</b> O
+, O
+Linnaeus B-ORG
+University E-ORG
+
+<b> O
+Rajiv B-PER
+Ranjan E-PER
+</b> O
+, O
+Newcastle B-ORG
+University E-ORG
+
+E-mail O
+: O
+balu O
+@ O
+
+Prof. O
+Gautam B-PER
+Barua E-PER
+
+Hyderabad S-LOC
+, O
+India S-LOC
+
+E-mail O
+: O
+venkat O
+@ O
+
+IIT B-ORG
+Mumbai E-ORG
+
+India S-LOC
+
+Former O
+
+Bangalore S-LOC
+, O
+India S-LOC
+
+CTO S-ORG
+, O
+Strand B-ORG
+Genomics E-ORG
+
+IIIT B-ORG
+Allahabad E-ORG
+
+<div O
+id O
+=" O
+editorialboard ROLE
+" O
+class O
+=" O
+placeholder O
+placeholder-editorialBoard O
+u-text-sans-serif O
+"> O
+
+<b> O
+Editor-in-Chief ROLE
+
+Hong B-ORG
+Kong I-ORG
+University I-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology E-ORG
+, O
+Hong B-LOC
+Kong E-LOC
+
+Hubei B-ORG
+University E-ORG
+, O
+China S-LOC
+
+<b> O
+LETTERS O
+EDITOR ROLE
+
+<b> O
+Christian B-PER
+Bessiere E-PER
+</b> O
+, O
+LIRMM O
+( O
+CNRS S-LOC
+/ O
+Univ. B-LOC
+Montpellier E-LOC
+) O
+, O
+France S-LOC
+
+<b> O
+Michele B-PER
+Lombardi E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Bologna E-ORG
+, O
+Italy S-LOC
+
+<b> O
+Bart B-PER
+Selman E-PER
+</b> O
+, O
+Cornell B-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<div O
+id O
+=" O
+editorialboard ROLE
+" O
+class O
+=" O
+placeholder O
+placeholder-editorialBoard O
+u-text-sans-serif O
+"> O
+
+Songcan B-PER
+Chen E-PER
+, O
+Parnec B-ORG
+CHINA E-ORG
+
+Alexander B-PER
+Felfernig E-PER
+, O
+Graz B-ORG
+University I-ORG
+of I-ORG
+Technology E-ORG
+, O
+AUSTRIA S-LOC
+
+Bogdan B-PER
+Filipic E-PER
+, O
+Jozef B-PER
+Stefan I-PER
+Institute E-PER
+, O
+SLOVENIA S-LOC
+
+Igor B-PER
+Kononenko E-PER
+, O
+University B-ORG
+Of I-ORG
+Ljublijana E-ORG
+, O
+SLOVENIA S-LOC
+
+Kishan B-PER
+G. I-PER
+Mehrotra E-PER
+, O
+Syracuse B-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<div O
+id O
+=" O
+editorialboard ROLE
+" O
+class O
+=" O
+placeholder O
+placeholder-editorialBoard O
+u-text-sans-serif O
+"> O
+
+</i> O
+<b> O
+Eamonn B-PER
+Keogh E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+California E-ORG
+, O
+Riverside S-LOC
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Nikolaj B-PER
+Tatti E-PER
+, O
+</b> O
+<i> O
+Helsinki B-ORG
+Institute I-ORG
+of I-ORG
+Information I-ORG
+Technology E-ORG
+, O
+Aalto B-ORG
+University E-ORG
+, O
+Finland S-LOC
+</i> O
+
+</b> O
+</i> O
+<b> O
+Albrecht B-PER
+Zimmerman E-PER
+, O
+</b> O
+<i> O
+Universite B-ORG
+Caen I-ORG
+Normandie E-ORG
+, O
+France S-LOC
+
+</i> O
+<b> O
+Bruno B-PER
+Cr E-PER
+</b> O
+<b> O
+émilleux O
+, O
+</b> O
+<i> O
+Universite B-ORG
+de I-ORG
+Caen I-ORG
+Normandie E-ORG
+, O
+France S-LOC
+
+</i> O
+<b> O
+João B-PER
+Gama E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Porto E-ORG
+, O
+Portugal S-LOC
+
+</i> O
+<b> O
+Eyke B-PER
+Hüllermeier E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Paderborn E-ORG
+, O
+Germany S-LOC
+
+</i> O
+<b> O
+Meng B-PER
+Jiang E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Notre I-ORG
+Dame E-ORG
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Bernhard B-PER
+Pfahringer E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Waikato E-ORG
+, O
+Hamilton S-LOC
+, O
+New B-LOC
+Zealand E-LOC
+
+</i> O
+<b> O
+Jilles B-PER
+Vreeken E-PER
+, O
+</b> O
+<i> O
+Max B-ORG
+Planck I-ORG
+Institute I-ORG
+for I-ORG
+Informatics E-ORG
+and O
+Saarland B-ORG
+University E-ORG
+, O
+Germany S-LOC
+</i> O
+
+<b> O
+Honorary O
+Editorial B-ROLE
+Board E-ROLE
+: O
+
+</i> O
+<b> O
+M O
+. O
+Albrecht S-PER
+, O
+</b> O
+<i> O
+Royal B-ORG
+Holloway E-ORG
+, O
+UK S-LOC
+
+</i> O
+<b> O
+Jung B-PER
+Hee I-PER
+Cheon E-PER
+, O
+</b> O
+<i> O
+Seoul B-ORG
+National I-ORG
+University E-ORG
+, O
+South B-LOC
+Korea E-LOC
+</i> O
+
+</i> O
+<b> O
+T O
+. O
+Etzion O
+, O
+</b> O
+<i> O
+Technion O
+IIT O
+, O
+Israel S-LOC
+
+</i> O
+<b> O
+T O
+. O
+Helleseth O
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Bergen E-ORG
+, O
+Norway S-LOC
+
+<b> O
+J. O
+- O
+L O
+. O
+Kim S-PER
+, O
+</b> O
+<i> O
+Sogang B-ORG
+University E-ORG
+, O
+South B-LOC
+Korea E-LOC
+
+<b> O
+M O
+. O
+Lavrauw S-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Padua E-ORG
+, O
+Italy S-LOC
+
+</i> O
+<b> O
+G O
+. O
+McGuire S-PER
+, O
+</b> O
+<i> O
+University B-ORG
+College I-ORG
+Dublin E-ORG
+, O
+Ireland S-LOC
+
+</i> O
+<b> O
+L O
+. O
+Storme O
+, O
+</b> O
+<i> O
+Ghent B-ORG
+University E-ORG
+, O
+Belgium S-LOC
+
+</i> O
+Christoforos B-ORG
+Hadjicostis E-ORG
+, O
+<i> O
+University B-ORG
+of I-ORG
+Cyprus E-ORG
+, O
+Cyprus S-LOC
+
+Sophie B-PER
+Pinchinat E-PER
+, O
+<i> O
+IRISA O
+, O
+Universitairé B-ORG
+de I-ORG
+Rennes E-ORG
+1 O
+, O
+France S-LOC
+
+</i> O
+Rong B-PER
+Su E-PER
+, O
+<i> O
+Nanyang B-ORG
+Technological I-ORG
+University E-ORG
+, O
+Singapore S-LOC
+
+Manuel B-PER
+Silva E-PER
+, O
+<i> O
+Universidad B-ORG
+de I-ORG
+Zaragoza E-ORG
+, O
+Spain S-LOC
+
+David B-PER
+D. I-PER
+Yao E-PER
+, O
+<i> O
+Columbia B-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Editors-in-Chief ROLE
+: O
+
+<b> O
+Founding B-ROLE
+Editor ROLE
+: O
+
+Wil B-PER
+van I-PER
+der I-PER
+Aalst E-PER
+, O
+<i> O
+Technische B-ORG
+Universiteit I-ORG
+Eindhoven E-ORG
+, O
+Netherlands S-LOC
+
+Sunil B-PER
+Prabhakar E-PER
+, O
+<i> O
+Purdue B-ORG
+University E-ORG
+, O
+USA S-LOC
+
+Feifei B-PER
+Li E-PER
+, O
+<i> O
+University B-ORG
+of I-ORG
+Utah E-ORG
+, O
+USA S-LOC
+
+Azza B-PER
+Abouzied E-PER
+, O
+<i> O
+NYU O
+Abu B-LOC
+Dhabi E-LOC
+, O
+UAE S-LOC
+
+Kaushik B-PER
+Chakrabarti E-PER
+, O
+<i> O
+Microsoft B-ORG
+Research E-ORG
+, O
+USA S-LOC
+
+Sudipto B-PER
+Das E-PER
+, O
+<i> O
+Microsoft B-ORG
+Research E-ORG
+, O
+USA S-LOC
+
+Zhiguo B-PER
+Gong E-PER
+, O
+<i> O
+University B-ORG
+of I-ORG
+Macau E-ORG
+, O
+Macau S-LOC
+
+Takahiro B-PER
+Hara E-PER
+<i> O
+, O
+Osaka B-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+Mourad B-PER
+Ouzzani E-PER
+, O
+<i> O
+Qatar B-ORG
+Computing I-ORG
+Research I-ORG
+Institute E-ORG
+, O
+Qatar S-LOC
+
+Florin B-PER
+Rusu E-PER
+, O
+<i> O
+University B-ORG
+of I-ORG
+California I-ORG
+Merced E-ORG
+, O
+USA S-LOC
+
+Shazia B-PER
+Sadiq E-PER
+, O
+<i> O
+University B-ORG
+of I-ORG
+Queensland E-ORG
+, O
+Australia S-LOC
+
+Jagan B-PER
+Sankaranarayanan E-PER
+, O
+<i> O
+Google O
+, O
+USA S-LOC
+
+Stratis B-ORG
+Viglas E-ORG
+, O
+<i> O
+University B-ORG
+of I-ORG
+Edinburgh E-ORG
+, O
+UK S-LOC
+
+</b> O
+University B-ORG
+of I-ORG
+Waterloo E-ORG
+, O
+Canada S-LOC
+
+<b> O
+David B-PER
+Peleg E-PER
+
+<b> O
+Davide B-PER
+Sangiorgi E-PER
+
+<b> O
+Fred B-PER
+B. I-PER
+Schneider E-PER
+
+</i> O
+<b> O
+Monique B-PER
+Grandbastien E-PER
+, O
+</b> O
+<i> O
+Université B-ORG
+de I-ORG
+Lorraine E-ORG
+, O
+France S-LOC
+
+<b> O
+Robert B-PER
+Feldt E-PER
+
+<b> O
+Editorial B-ROLE
+Board E-ROLE
+
+</i> O
+<b> O
+Eric B-PER
+Bodden E-PER
+, O
+</b> O
+<i> O
+Heinz B-ORG
+Nixdorf I-ORG
+Institut E-ORG
+at O
+Paderborn B-ORG
+University I-ORG
+& I-ORG
+amp E-ORG
+; O
+Fraunhofer B-ORG
+IEM E-ORG
+, O
+Germany S-LOC
+
+</i> O
+<b> O
+Paul B-PER
+Grünbacher E-PER
+, O
+</b> O
+<i> O
+Johannes B-ORG
+Kepler I-ORG
+University I-ORG
+Linz E-ORG
+, O
+Austria S-LOC
+
+</i> O
+<b> O
+Dan B-PER
+Hao E-PER
+, O
+</b> O
+<i> O
+Peking B-ORG
+University E-ORG
+, O
+China S-LOC
+
+<b> O
+Zhi B-PER
+Jin E-PER
+, O
+</b> O
+<i> O
+Peking B-ORG
+University E-ORG
+, O
+China S-LOC
+
+</i> O
+<b> O
+Emerson B-PER
+Murphy-Hill E-PER
+<i> O
+, O
+</i> O
+</b> O
+<i> O
+North B-ORG
+Carolina I-ORG
+State I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+</i> O
+
+</div> O
+
+Director O
+Scientific B-ORG
+Computation I-ORG
+Research I-ORG
+Center E-ORG
+, O
+Rensselaer B-ORG
+Polytechnic I-ORG
+Institute E-ORG
+, O
+Troy S-LOC
+, O
+New B-LOC
+York E-LOC
+12180-3590 O
+, O
+USA S-LOC
+
+Sandia B-ORG
+National I-ORG
+Laboratories E-ORG
+, O
+Albuquerque S-LOC
+, O
+New B-LOC
+Mexico E-LOC
+, O
+USA S-LOC
+
+Robert B-PER
+H. I-PER
+Dodds E-PER
+
+University B-ORG
+of I-ORG
+Illinois E-ORG
+, O
+Urbana S-LOC
+, O
+Illinois S-LOC
+, O
+USA S-LOC
+
+Assad B-PER
+A. I-PER
+Oberai E-PER
+
+Washington B-ORG
+University E-ORG
+, O
+St B-LOC
+Louis E-LOC
+, O
+Missouri S-LOC
+, O
+USA S-LOC
+
+Yongjie B-PER
+Jessica I-PER
+Zhang E-PER
+
+<b> O
+<i> O
+Editor-in-Chief ROLE
+
+</b> O
+Dept. O
+of O
+Philosophy O
+, O
+Delft B-ORG
+University I-ORG
+of I-ORG
+Technology E-ORG
+, O
+The B-ORG
+Netherlands I-ORG
+& I-ORG
+amp E-ORG
+; O
+Centre B-ORG
+for I-ORG
+Applied I-ORG
+Philosophy I-ORG
+and I-ORG
+Public I-ORG
+Ethics E-ORG
+, O
+The O
+Australian B-ORG
+National I-ORG
+University E-ORG
+, O
+Canberra S-LOC
+, O
+Australia S-LOC
+
+<b> O
+<i> O
+Co-Editor ROLE
+
+Herman B-PER
+Tavani E-PER
+
+</i> O
+<b> O
+Philip B-PER
+Brey E-PER
+, O
+</b> O
+<i> O
+Technical B-ORG
+University I-ORG
+Twente E-ORG
+, O
+Enschede S-LOC
+, O
+The B-LOC
+Netherlands E-LOC
+
+</i> O
+<b> O
+Richard B-PER
+T. I-PER
+De I-PER
+George E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Kansas E-ORG
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Dag B-PER
+Elgesem E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+</<E-ORG> O
+i> O
+<i> O
+Bergen S-LOC
+, O
+Norway S-LOC
+
+</i> O
+<b> O
+Simon S-PER
+</b> O
+<b> O
+Rogerson S-PER
+, O
+</b> O
+<i> O
+De B-PER
+Montfort E-PER
+</i> O
+<i> O
+University O
+, O
+UK S-LOC
+
+</i> O
+<b> O
+John B-PER
+Weckert E-PER
+, O
+</b> O
+<i> O
+Charles B-PER
+Sturt E-PER
+</i> O
+<i> O
+University O
+, O
+Canberra S-LOC
+, O
+Australia S-LOC
+
+</i> O
+<b> O
+Steve B-PER
+Woolgar E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Oxford E-ORG
+, O
+UK S-LOC
+
+email O
+: O
+jim.woodcock O
+@ O
+
+Loughborough B-ORG
+University E-ORG
+
+Loughborough S-LOC
+, O
+LE11 S-LOC
+3TU O
+, O
+UK S-LOC
+
+<b> O
+Prof. O
+J. B-PER
+M. I-PER
+Wing E-PER
+
+</b> O
+550 O
+W O
+. O
+120th O
+St. O
+MC O
+4720 O
+
+NY O
+10027 O
+, O
+USA S-LOC
+
+<b> O
+Prof. O
+C. B-PER
+B. I-PER
+Jones E-PER
+
+<b> O
+Prof. B-PER
+M. I-PER
+J. I-PER
+Butler E-PER
+
+<b> O
+Prof. O
+Ana B-PER
+Cavalcanti E-PER
+
+email O
+: O
+ewen.w.denney O
+@ O
+
+( O
+Formal O
+methods O
+in I-ROLE
+human-computer O
+interaction O
+; O
+Visualization O
+; O
+Graphics O
+; O
+Functional O
+programming O
+) O
+
+( O
+Formal O
+methods O
+; O
+Software O
+specification O
+; O
+Specification-based O
+testing O
+; O
+Testing O
+strategies O
+
+<b> O
+Prof. O
+J. B-PER
+Nuno I-PER
+Oliveira E-PER
+
+</b> O
+University B-ORG
+of I-ORG
+Augsburg E-ORG
+, O
+Institute B-ORG
+for I-ORG
+Software I-ORG
+and I-ORG
+Systems I-ORG
+Engineering E-ORG
+( O
+ISSE S-ORG
+) O
+, O
+Universitaetsstrasse O
+<B-MISC> O
+6a O
+<E-MISC> O
+, O
+86159 O
+Augsburg S-LOC
+, O
+Germany S-LOC
+
+</b> O
+<b> O
+John B-PER
+M. I-PER
+Watts E-PER
+Jr O
+. O
+, O
+</b> O
+Fire B-ORG
+Safety I-ORG
+Institute E-ORG
+, O
+Middlebury S-LOC
+, O
+VT S-LOC
+, O
+USA S-LOC
+
+<b> O
+Steve B-PER
+M.V E-PER
+. O
+Gwynne S-PER
+, O
+</b> O
+NRC S-ORG
+, O
+Ottawa S-LOC
+, O
+ON S-LOC
+, O
+Canada S-LOC
+
+<b> O
+Xinyan B-PER
+Huang E-PER
+, O
+</b> O
+Hong B-ORG
+Kong I-ORG
+Polytechnic I-ORG
+University E-ORG
+, O
+Hong B-LOC
+Kong E-LOC
+
+<b> O
+Eleni B-PER
+Asimakopoulou E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Central I-ORG
+Lancashire E-ORG
+, O
+United B-LOC
+Kingdom E-LOC
+
+<b> O
+Katherine B-PER
+A. I-PER
+Cashell E-PER
+</b> O
+, O
+Brunel B-ORG
+University E-ORG
+, O
+United B-ORG
+Kongdom E-ORG
+
+<b> O
+Ofodike B-PER
+A. I-PER
+Ezekoye E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Texas E-ORG
+at O
+Austin S-LOC
+, O
+USA S-LOC
+
+<b> O
+Alberto B-PER
+Fina E-PER
+, O
+</b> O
+Politecnico B-ORG
+di I-ORG
+Torino E-ORG
+, O
+Italy S-LOC
+
+<b> O
+Tuula B-PER
+Hakkarainen E-PER
+</b> O
+, O
+VTT B-ORG
+Technical I-ORG
+Research I-ORG
+Centre I-ORG
+of I-ORG
+Finland I-ORG
+Ltd E-ORG
+. O
+, O
+Finland S-LOC
+
+<b> O
+Ruggiero B-PER
+Lovreglio E-PER
+, O
+</b> O
+Massey B-ORG
+University E-ORG
+, O
+New B-LOC
+Zealand E-LOC
+
+<b> O
+Juan B-PER
+Hidalgo I-PER
+Medina E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Queensland E-ORG
+, O
+Australia S-LOC
+
+<b> O
+Ruben B-PER
+Van I-PER
+Coile E-PER
+</b> O
+, O
+Ghent B-ORG
+University E-ORG
+, O
+Belgium S-LOC
+
+<b> O
+Editors-in-Chief ROLE
+: O
+
+Cross-media O
+intelligence O
+, O
+big O
+data O
+
+Xin-ping B-PER
+Guan E-PER
+
+F. B-PER
+Richard I-PER
+Yu E-PER
+
+Carleton B-ORG
+University E-ORG
+, O
+Canada S-LOC
+
+Tongji B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Ji-ming B-PER
+Chen E-PER
+
+Xidian B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Computer O
+science O
+& O
+amp O
+; O
+
+Technical B-ORG
+University I-ORG
+of I-ORG
+Czestochowa E-ORG
+, O
+Poland S-LOC
+
+Colin B-PER
+Sheppard E-PER
+
+Networked O
+control O
+
+University O
+of O
+Peradeniya S-LOC
+, O
+Sri B-LOC
+Lanka E-LOC
+
+Laurence B-PER
+T. I-PER
+Yang E-PER
+
+Jun-ping B-PER
+Zhang E-PER
+
+Wireless O
+communications O
+and O
+networking O
+, O
+signal O
+and O
+information O
+
+Zhejiang B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Wen B-ORG
+GAO I-ORG
+Peking I-ORG
+University E-ORG
+, O
+China S-LOC
+
+Lionel B-PER
+M E-PER
+. O
+NI O
+The O
+Hong B-ORG
+Kong I-ORG
+University I-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology E-ORG
+, O
+China S-LOC
+
+Wei B-ORG
+ZHAO I-ORG
+University I-ORG
+of I-ORG
+Macau E-ORG
+, O
+China S-LOC
+
+Jian B-ORG
+ZHANG I-ORG
+Institute I-ORG
+of I-ORG
+Software E-ORG
+, O
+Chinese B-ORG
+Academy I-ORG
+of I-ORG
+Sciences E-ORG
+, O
+China S-LOC
+
+Fujisaka B-ORG
+Hisato I-ORG
+Hiroshima I-ORG
+City I-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+M. B-PER
+Tamer I-PER
+Özsu E-PER
+University O
+of O
+Waterloo S-LOC
+, O
+Canada S-LOC
+
+Shiguang B-ORG
+SHAN I-ORG
+Institute I-ORG
+of I-ORG
+Computing I-ORG
+Technology E-ORG
+, O
+Chinese B-ORG
+Academy I-ORG
+of I-ORG
+Sciences E-ORG
+, O
+China S-LOC
+
+Area O
+Editor ROLE
+for O
+Life B-ORG
+Sciences E-ORG
+
+Moshe B-PER
+Sipper E-PER
+, O
+<i> O
+Ben-Gurion B-ORG
+University E-ORG
+, O
+Israel S-LOC
+
+<b> O
+Editorial B-ROLE
+Board E-ROLE
+: O
+
+<b> O
+Baihua B-PER
+Zheng E-PER
+, O
+</b> O
+Singapore B-ORG
+Management I-ORG
+University E-ORG
+, O
+Singapore S-LOC
+
+<b> O
+Leila B-PER
+DeFloriani E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Genova E-ORG
+, O
+Italy S-LOC
+
+<b> O
+Mike B-PER
+Goodchild E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+California E-ORG
+, O
+USA S-LOC
+
+<b> O
+Tapani B-PER
+Sarjakoski E-PER
+, O
+</b> O
+Finnish B-ORG
+Geospatial I-ORG
+Research I-ORG
+Institute E-ORG
+FGI O
+, O
+Helsinki S-LOC
+, O
+Finland S-LOC
+
+<b> O
+J O
+. O
+Shane B-PER
+Culpepper E-PER
+</b> O
+, O
+<i> O
+RMIT B-ORG
+University E-ORG
+, O
+Melbourne S-LOC
+, O
+Australia S-LOC
+
+</i> O
+<b> O
+Jaana B-PER
+Kekäläinen E-PER
+</b> O
+, O
+<i> O
+University B-ORG
+of I-ORG
+Tampere E-ORG
+, O
+Finland S-LOC
+
+<b> O
+Massimo B-PER
+Melucci E-PER
+</b> O
+, O
+<i> O
+University B-ORG
+of I-ORG
+Padua E-ORG
+, O
+Italy S-LOC
+
+</i> O
+<b> O
+Edie B-PER
+Rasmussen E-PER
+</b> O
+, O
+<i> O
+University B-ORG
+of I-ORG
+British I-ORG
+Columbia E-ORG
+, O
+Canada S-LOC
+
+</i> O
+<b> O
+Arjen B-PER
+P. I-PER
+de I-PER
+Vries E-PER
+</b> O
+, O
+<i> O
+Radboud B-ORG
+University E-ORG
+, O
+The B-LOC
+Netherlands E-LOC
+</i> O
+
+<i> O
+University B-ORG
+of I-ORG
+Illinois E-ORG
+at O
+Urbana-Champaign S-LOC
+, O
+USA S-LOC
+
+
+</i> O
+Kristen B-PER
+Grauman E-PER
+</b> O
+<b> O
+<i> O
+, O
+University B-ORG
+of I-ORG
+Texas E-ORG
+at O
+Austin S-LOC
+
+<b> O
+Christoph B-PER
+Lampert E-PER
+</b> O
+<b> O
+<i> O
+, O
+IST O
+Austria S-LOC
+
+</i> O
+Zhouchen B-PER
+Lin E-PER
+</b> O
+<b> O
+<i> O
+, O
+Peking B-ORG
+University E-ORG
+
+</i> O
+Yasuhiro B-PER
+Mukaigawa E-PER
+</b> O
+<b> O
+<i> O
+, O
+Osaka B-ORG
+University E-ORG
+
+</i> O
+Florent B-PER
+Perronnin E-PER
+<i> O
+, O
+NAVER O
+LABS O
+Europe S-LOC
+</i> O
+</b> O
+
+</i> O
+Yoichi B-PER
+Sato E-PER
+</b> O
+<b> O
+<i> O
+, O
+The O
+University B-ORG
+of I-ORG
+Tokyo E-ORG
+
+</i> O
+</b> O
+<b> O
+Kwan-Yee B-PER
+Kenneth I-PER
+Wong E-PER
+, O
+<i> O
+The O
+University B-ORG
+of I-ORG
+Hong I-ORG
+Kong E-ORG
+
+<b> O
+Dieter B-PER
+Gollmann E-PER
+
+<b> O
+Joonsang B-PER
+Baek E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Wollongong E-ORG
+, O
+Australia S-LOC
+
+<b> O
+Elisa B-PER
+Bertino E-PER
+</b> O
+, O
+Purdue B-ORG
+University E-ORG
+, O
+West B-LOC
+Lafayette E-LOC
+, O
+IN I-ROLE
+, O
+USA S-LOC
+
+<b> O
+Sokratis B-PER
+K. I-PER
+Katsikas E-PER
+</b> O
+, O
+Open B-ORG
+University I-ORG
+of I-ORG
+Cyprus E-ORG
+, O
+and O
+Norwegian B-ORG
+University I-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology I-ORG
+Gjøvik E-ORG
+, O
+Norway S-LOC
+
+<b> O
+Mark B-PER
+Manulis E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Surrey E-ORG
+, O
+Guildford S-LOC
+, O
+UK S-LOC
+
+Rolf B-PER
+Oppliger E-PER
+</b> O
+, O
+eSECURITY B-ORG
+Technologies E-ORG
+, O
+Bern S-LOC
+, O
+Switzerland S-LOC
+
+<b> O
+Mark B-PER
+D I-PER
+Ryan E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Birmingham E-ORG
+, O
+UK S-LOC
+
+<b> O
+Vincent B-PER
+Aleven E-PER
+</b> O
+, O
+Carnegie B-ORG
+Mellon I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Danielle B-PER
+McNamara E-PER
+</b> O
+, O
+Arizona B-ORG
+State I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Ido B-PER
+Roll E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+British I-ORG
+Columbia E-ORG
+, O
+Canada S-LOC
+
+</i> O
+</b> O
+<b> O
+<i> O
+Editorial B-ROLE
+Board E-ROLE
+</i> O
+</b> O
+<b> O
+<i> O
+</i> O
+
+<b> O
+Andrew B-PER
+Olney E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Memphis E-ORG
+, O
+USA S-LOC
+
+<b> O
+Jonathan B-PER
+Rowe E-PER
+</b> O
+, O
+North B-ORG
+Carolina I-ORG
+State I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Valerie B-PER
+Shute E-PER
+</b> O
+, O
+Florida B-ORG
+State I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Philip B-PER
+Winne E-PER
+</b> O
+, O
+Simon B-PER
+Fraser E-PER
+University O
+, O
+Canada S-LOC
+
+Ireland S-LOC
+
+Associate BI-ROLE
+Editors-in-Chief ROLE
+( O
+Academia S-ORG
+) O
+
+<b> O
+Sten B-PER
+F. I-PER
+Andler E-PER
+
+<b> O
+Harold B-PER
+" I-PER
+Bud I-PER
+" I-PER
+Lawson E-PER
+
+</b> O
+Lawson B-ORG
+Konsult I-ORG
+AB E-ORG
+, O
+Sweden S-LOC
+
+</div> O
+
+Santosh B-PER
+Devasia E-PER
+, O
+University B-ORG
+of I-ORG
+Washington E-ORG
+, O
+USA S-LOC
+
+Yunhua B-PER
+Li E-PER
+, O
+Beihang B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Xinjun B-PER
+Liu E-PER
+, O
+Tsinghua B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Kenn B-PER
+R. I-PER
+Oldham E-PER
+, O
+University B-ORG
+of I-ORG
+Michigan E-ORG
+, O
+USA S-LOC
+
+Wei B-PER
+Chong E-PER
+, O
+Beijing B-ORG
+Jiaotong I-ORG
+University E-ORG
+, O
+China S-LOC
+
+Keping B-PER
+Li E-PER
+, O
+Tongji B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Evangelos B-PER
+Mitsakis E-PER
+, O
+Hellenic B-ORG
+Institute I-ORG
+of I-ORG
+Transport E-ORG
+, O
+Greece S-LOC
+
+Hiroko B-PER
+Mori E-PER
+, O
+Aichi B-ORG
+Shukutoku I-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+Hiroaki B-PER
+Nishiuchi E-PER
+, O
+Kochi B-ORG
+University I-ORG
+of I-ORG
+Technology E-ORG
+, O
+Japan S-LOC
+
+Nobuyuki B-PER
+Ozaki E-PER
+, O
+Nagoya B-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+Jun B-PER
+Sakamoto E-PER
+, O
+Kochi B-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+Kazunori B-PER
+Shidoji E-PER
+, O
+Kyushu B-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+<b> O
+Editorial B-ROLE
+Board E-ROLE
+: O
+
+</i> O
+<b> O
+Paraskevas B-PER
+Evripidou E-PER
+</b> O
+, O
+<i> O
+University B-ORG
+of I-ORG
+Cyprus E-ORG
+, O
+Cyprus S-LOC
+
+</i> O
+<b> O
+José B-PER
+A.B E-PER
+. O
+Fortes S-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Florida E-ORG
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Kazuki B-PER
+Joe E-PER
+, O
+</b> O
+<i> O
+Nara B-ORG
+Women I-ORG
+'s I-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+</i> O
+<b> O
+Arun B-PER
+Kejariwal E-PER
+, O
+</b> O
+<i> O
+Twitter O
+, O
+USA S-LOC
+
+</i> O
+<b> O
+David B-PER
+J. I-PER
+Kuck E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Illinois E-ORG
+at O
+</i> O
+<i> O
+Urbana-Champaign S-LOC
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Yoichi B-PER
+Muraoka E-PER
+, O
+</b> O
+<i> O
+Waseda B-ORG
+University E-ORG
+, O
+Tokyo S-LOC
+, O
+Japan S-LOC
+
+</i> O
+<b> O
+Keshav S-PER
+</b> O
+<b> O
+Pingali S-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Texas E-ORG
+, O
+Austin S-LOC
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Harry B-PER
+Wijshoff E-PER
+</b> O
+, O
+<i> O
+Leiden B-ORG
+Institute I-ORG
+of I-ORG
+Advanced I-ORG
+Computer I-ORG
+Science E-ORG
+, O
+The B-ORG
+Netherlands E-ORG
+
+<b> O
+Senior B-ROLE
+Editors ROLE
+
+</b> O
+University B-ORG
+of I-ORG
+Illinois E-ORG
+at O
+Urbana-Champaign S-LOC
+, O
+USA S-LOC
+
+<b> O
+Mark B-PER
+Zhang E-PER
+
+<b> O
+Alberto B-PER
+del I-PER
+Bimbo E-PER
+
+<b> O
+Tat-Seng B-PER
+Chua E-PER
+
+</b> O
+University B-ORG
+of I-ORG
+East I-ORG
+Anglia E-ORG
+, O
+UK S-LOC
+
+<b> O
+Joemon B-PER
+Jose E-PER
+
+</b> O
+University B-ORG
+of I-ORG
+Southampton E-ORG
+, O
+UK S-LOC
+
+<b> O
+S O
+. O
+Marchand-Maillet S-PER
+
+<b> O
+Yong B-PER
+Rui E-PER
+
+<b> O
+Editors-in-Chief ROLE
+
+Tel O
+. O
+: O
++ O
+
+lopresti O
+@ O
+
+Buffalo S-LOC
+, O
+NY S-LOC
+14260-2500 O
+, O
+USA S-LOC
+
+Boise S-LOC
+, O
+Idaho S-LOC
+, O
+USA S-LOC
+
+liucl O
+@ O
+
+Braunschweig B-ORG
+Technical I-ORG
+University E-ORG
+
+jean-marc.ogier O
+@ O
+
+Montreal S-LOC
+, O
+Quebec S-LOC
+, O
+Canada S-LOC
+
+<b> O
+S O
+. O
+Setlur S-PER
+
+setlur O
+@ O
+
+Spain S-LOC
+
+ernest O
+@ O
+
+<b> O
+R O
+. O
+Zanibbi S-PER
+
+rxzvcs O
+@ O
+
+<b> O
+<i> O
+Executive B-ROLE
+Editor-in-Chief ROLE
+</i> O
+
+1090 O
+Vienna S-LOC
+, O
+Austria S-LOC
+
+<b> O
+Richard B-PER
+Furuta E-PER
+
+Tel O
+. O
++ O
+1 O
+( O
+979 O
+) O
+
+<b> O
+Ingo B-PER
+Frommholz E-PER
+
+University B-ORG
+of I-ORG
+Bedfordshire E-ORG
+
+54792 O
+Lahore S-LOC
+, O
+Pakistan S-LOC
+
+Ireland S-LOC
+
+VERIMAG S-LOC
+, O
+France S-LOC
+
+<i> O
+( O
+Verification O
+and O
+Embedded O
+Systems O
+) O
+
+Chin-Teng B-PER
+Lin E-PER
+, O
+National B-ORG
+Chiao-Tung I-ORG
+University E-ORG
+, O
+Taiwan S-LOC
+, O
+China S-LOC
+
+Nishanth B-PER
+Chandran E-PER
+, O
+Microsoft B-ORG
+Research I-ORG
+India I-ORG
+Bangalore E-ORG
+, O
+India S-LOC
+
+Ugo B-PER
+Fiore E-PER
+, O
+Parthenope B-ORG
+University E-ORG
+, O
+Italy S-LOC
+
+Editorial B-ROLE
+Board E-ROLE
+</i> O
+
+<b> O
+Peter B-PER
+Müller E-PER
+, O
+</b> O
+ETH B-LOC
+Zürich E-LOC
+, O
+Switzerland S-LOC
+
+<b> O
+Andreas B-PER
+Podelski E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Freiburg E-ORG
+, O
+Germany S-LOC
+
+<b> O
+Christoph B-PER
+Weidenbach E-PER
+, O
+</b> O
+Max-Planck-Institute B-ORG
+for I-ORG
+Informatics E-ORG
+, O
+Germany S-LOC
+
+Professor O
+, O
+Department B-ORG
+of I-ORG
+Computer I-ORG
+Science E-ORG
+
+The O
+University B-ORG
+of I-ORG
+Melbourne E-ORG
+, O
+Australia S-LOC
+
+Professor O
+, O
+School B-ORG
+of I-ORG
+Computer I-ORG
+Science I-ORG
+and I-ORG
+Electronic I-ORG
+Engineering E-ORG
+
+University B-ORG
+of I-ORG
+California E-ORG
+, O
+Davis S-LOC
+, O
+USA S-LOC
+
+Professor O
+, O
+School B-ORG
+of I-ORG
+Computer I-ORG
+Science E-ORG
+
+Professor O
+, O
+Department B-ORG
+of I-ORG
+Computer I-ORG
+Science E-ORG
+
+Professor O
+, O
+Department B-ORG
+of I-ORG
+Computer I-ORG
+Science E-ORG
+
+University B-ORG
+of I-ORG
+Alabama E-ORG
+, O
+Tuscaloosa S-LOC
+, O
+USA S-LOC
+
+Professor O
+, O
+Department B-ORG
+of I-ORG
+Electrical I-ORG
+Engineering I-ORG
+and I-ORG
+Computer I-ORG
+Science E-ORG
+
+Sharif B-ORG
+University I-ORG
+of I-ORG
+Technology E-ORG
+, O
+Tehran S-LOC
+, O
+Iran S-LOC
+
+Professor O
+, O
+Computer B-ORG
+Engineering I-ORG
+Department E-ORG
+
+<b> O
+Florin B-PER
+Popentiu I-PER
+Vlãdicescu E-PER
+
+Bath B-ORG
+Spa I-ORG
+University E-ORG
+, O
+UK S-LOC
+
+<b> O
+Leading O
+Editors ROLE
+
+David B-PER
+Z. I-PER
+Pan E-PER
+<i> O
+The O
+University B-ORG
+of I-ORG
+Texas E-ORG
+at O
+Austin S-LOC
+, O
+Austin S-LOC
+
+Weisong B-ORG
+Shi E-ORG
+<i> O
+Wayne B-ORG
+State I-ORG
+University E-ORG
+, O
+Detroit S-LOC
+
+Ji-Wu B-PER
+Huang E-PER
+<i> O
+Shenzhen B-ORG
+University E-ORG
+, O
+Shenzhen S-LOC
+
+Chong-Wah B-ORG
+Ngo E-ORG
+<i> O
+City B-ORG
+University I-ORG
+of I-ORG
+Hong B-LOC
+Kong E-LOC
+, O
+Hong B-LOC
+Kong E-LOC
+
+Jian B-ORG
+Lv I-ORG
+<<I-ORG> O
+i O
+<I-ORG>> O
+Nanjing B-ORG
+University E-ORG
+, O
+Nanjing S-LOC
+
+<b> O
+Computer O
+Architecture O
+and O
+Systems O
+
+Ji-Dong B-PER
+Zhai E-PER
+<i> O
+Tsinghua B-ORG
+University E-ORG
+, O
+Beijing S-LOC
+
+Ze-Chao B-ORG
+Li I-ORG
+<<I-ORG> O
+i O
+<I-ORG>> O
+Nanjing B-ORG
+University I-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology E-ORG
+, O
+Nanjing B-ORG
+</<I-ORG> O
+i O
+
+Jing B-PER
+Liu E-PER
+<i> O
+Ins O
+. O
+Automation O
+, O
+CAS O
+, O
+Beijing S-LOC
+
+<b> O
+Software O
+Systems O
+
+<b> O
+Grégoire B-PER
+JACOB E-PER
+</b> O
+, O
+Télécom B-PER
+SudParis E-PER
+, O
+France S-LOC
+
+<b> O
+Grant B-PER
+MALCOLM E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Liverpool E-ORG
+, O
+UK S-LOC
+
+University B-ORG
+of I-ORG
+California E-ORG
+, O
+Santa B-LOC
+Barbara E-LOC
+, O
+USA S-LOC
+
+Université B-ORG
+catholique I-ORG
+de I-ORG
+Louvain E-ORG
+, O
+Belgium S-LOC
+
+<b> O
+<i> O
+Editorial B-ROLE
+Board E-ROLE
+: O
+</i> O
+
+<b> O
+Debdeep B-PER
+Mukhopadhyay E-PER
+</b> O
+, O
+Indian B-ORG
+Institute I-ORG
+of I-ORG
+Technology I-ORG
+Kharagpur E-ORG
+, O
+India S-LOC
+
+Péter B-PER
+Kacsuk E-PER
+, O
+MTA B-ORG
+SZTAKI I-ORG
+Computer I-ORG
+and I-ORG
+Automation I-ORG
+Research I-ORG
+Institute E-ORG
+, O
+Budapest S-LOC
+, O
+Hungary S-LOC
+and O
+the O
+University B-ORG
+of I-ORG
+Westminster E-ORG
+, O
+London S-LOC
+, O
+UK S-LOC
+
+Franck B-PER
+Cappello E-PER
+, O
+CNRS S-ORG
+, O
+Paris S-LOC
+, O
+France S-LOC
+
+Jon B-PER
+Crowcroft E-PER
+, O
+University B-ORG
+of I-ORG
+Cambridge E-ORG
+, O
+UK S-LOC
+
+Jack B-PER
+Dongarra E-PER
+, O
+University B-ORG
+of I-ORG
+Tennessee E-ORG
+, O
+Knoxville S-LOC
+, O
+USA S-LOC
+
+Fabrizio B-PER
+Gagliardi E-PER
+, O
+Microsoft S-ORG
+, O
+USA S-LOC
+
+Alexander B-PER
+Reinefeld E-PER
+, O
+ZIB B-ORG
+Berlin E-ORG
+and O
+Humboldt B-ORG
+Universität I-ORG
+zu I-ORG
+Berlin E-ORG
+, O
+Germany S-LOC
+
+Ramin B-PER
+Yahyapour E-PER
+, O
+GWDG S-ORG
+, O
+Germany S-LOC
+
+kenny.paterson O
+@ O
+
+<b> O
+EDITORIAL B-ROLE
+BOARD E-ROLE
+
+Japan S-LOC
+
+<b> O
+Serge B-PER
+Fehr E-PER
+
+64293 O
+Darmstadt S-LOC
+
+Fairfax S-LOC
+, O
+VA S-LOC
+
+katz O
+@ O
+
+44780 O
+Bochum S-ORG
+
+eike.kiltz O
+@ O
+
+<b> O
+Hugo B-PER
+Krawczyk E-PER
+
+New B-LOC
+York E-LOC
+, O
+NY S-LOC
+
+USA S-LOC
+
+</b> O
+Department B-ORG
+of I-ORG
+Computer I-ORG
+Science I-ORG
+and I-ORG
+Engineering E-ORG
+
+Kasteelpark B-ORG
+Arenberg E-ORG
+
+Place B-ORG
+de I-ORG
+Levant E-ORG
+, O
+
+B-1348 O
+Louvain-la-Neuve S-ORG
+
+Paul B-PER
+G. I-PER
+Allen E-PER
+School O
+of O
+Computer B-ORG
+Science I-ORG
+and I-ORG
+Engineering E-ORG
+
+USA S-LOC
+
+serge.vaudenay O
+@ O
+
+3001 O
+Heverlee S-PER
+
+Belgium S-LOC
+
+<b> O
+Larry B-PER
+F. I-PER
+Hodges E-PER
+</b> O
+, O
+<i> O
+Clemson B-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Thomas B-PER
+Karopka E-PER
+, O
+</b> O
+<i> O
+European B-ORG
+Federation I-ORG
+for I-ORG
+Medical I-ORG
+Informatics E-ORG
+, O
+Germany S-LOC
+
+<b> O
+Qing B-PER
+Qian E-PER
+</b> O
+, O
+<i> O
+Chinese B-ORG
+Academy I-ORG
+of I-ORG
+Medical I-ORG
+Sciences E-ORG
+, O
+China S-LOC
+
+<b> O
+Gregor B-PER
+Stiglic E-PER
+</b> O
+, O
+<i> O
+University B-ORG
+of I-ORG
+Maribor E-ORG
+, O
+Slovenia S-LOC
+
+<b> O
+Vincent B-PER
+Tseng E-PER
+</b> O
+, O
+<i> O
+National B-ORG
+Chiao I-ORG
+Tung I-ORG
+University E-ORG
+, O
+Taiwan S-LOC
+
+<b> O
+Fei B-PER
+Wang E-PER
+</b> O
+, O
+<i> O
+Cornell B-ORG
+University E-ORG
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Daniela B-PER
+Calvetti E-PER
+</b> O
+, O
+<i> O
+CWRU O
+, O
+Cleveland S-LOC
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Krzysztof B-PER
+Chris I-PER
+Ciesielski E-PER
+, O
+</b> O
+<i> O
+West B-ORG
+Virginia I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+</i> O
+<b> O
+David B-PER
+Coeurjolly E-PER
+, O
+</b> O
+<i> O
+CNRS O
+, O
+Université B-ORG
+de I-ORG
+Lyon E-ORG
+, O
+France S-LOC
+
+</i> O
+<b> O
+Xue-Cheng B-PER
+Tai E-PER
+, O
+</b> O
+<i> O
+Hong B-ORG
+Kong I-ORG
+Baptist I-ORG
+University E-ORG
+, O
+Hong B-LOC
+Kong E-LOC
+
+</i> O
+<b> O
+Martin B-PER
+Welk E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+for I-ORG
+Health I-ORG
+Sciences E-ORG
+, O
+Medical B-ORG
+Informatics I-ORG
+and I-ORG
+Technology E-ORG
+, O
+Austria S-LOC
+
+</i> O
+<b> O
+Shubhajit B-PER
+Roy I-PER
+Chowdhury E-PER
+, O
+</b> O
+<i> O
+School B-ORG
+of I-ORG
+Computing I-ORG
+and I-ORG
+Electrical I-ORG
+Engineering E-ORG
+, O
+Indian B-ORG
+Institute I-ORG
+of I-ORG
+Technology I-ORG
+Mandi E-ORG
+, O
+India S-LOC
+
+<b> O
+Sana B-PER
+Ullah E-PER
+</b> O
+, O
+<i> O
+Polytechnic B-ORG
+Institute I-ORG
+of I-ORG
+Porto E-ORG
+, O
+Portugal S-LOC
+
+<b> O
+Social O
+Media O
+Editor ROLE
+
+<b> O
+Giancarlo B-PER
+Mauri E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Milano-Bicocca E-ORG
+, O
+Italy S-LOC
+
+<b> O
+K.G O
+. O
+Subramanian S-PER
+</b> O
+, O
+Madras B-ORG
+Christian I-ORG
+College E-ORG
+, O
+India S-LOC
+
+
+</i> O
+
+</b> O
+<b> O
+M O
+. O
+Akil O
+</b> O
+, O
+Ecole B-ORG
+Supérieure I-ORG
+d’Ingénieurs I-ORG
+en I-ORG
+Electronique I-ORG
+et I-ORG
+Electrotechnique E-ORG
+, O
+France S-LOC
+
+<b> O
+D O
+. O
+Ginhac O
+</b> O
+, O
+Le2i O
+UMR6306 O
+- O
+University B-ORG
+of I-ORG
+Bourgogne E-ORG
+, O
+France S-LOC
+
+<b> O
+F O
+. O
+Hannig O
+</b> O
+, O
+Friedrich-Alexander-Universität B-PER
+Erlangen-Nürnberg E-PER
+, O
+Germany S-LOC
+
+<b> O
+V O
+. O
+Ponomaryov S-PER
+</b> O
+, O
+Instituto B-ORG
+Politécnico I-ORG
+Nacional E-ORG
+, O
+Mexico S-LOC
+
+<b> O
+Luciano B-PER
+Paschoal I-PER
+Gaspary E-PER
+
+<b> O
+Rémi B-PER
+Badonnel E-PER
+, O
+</b> O
+( O
+IFIP O
+WG O
+6.6 O
+Chair O
+) O
+, O
+LORIA S-LOC
+, O
+France S-LOC
+
+<b> O
+Paul B-PER
+Brusil E-PER
+, O
+</b> O
+Strategic O
+Management O
+Directions O
+, O
+Beverly S-LOC
+, O
+MA S-LOC
+, O
+USA S-LOC
+
+<b> O
+David B-PER
+Breitgand E-PER
+</b> O
+, O
+IBM B-ORG
+Haifa I-ORG
+Research I-ORG
+Lab E-ORG
+, O
+Israel S-LOC
+
+<b> O
+Antonio B-PER
+Liotta E-PER
+, O
+</b> O
+Edinburgh B-ORG
+Napier I-ORG
+University E-ORG
+, O
+UK S-LOC
+
+<b> O
+Malgorzata B-PER
+Steinder E-PER
+, O
+</b> O
+IBM O
+T.J O
+. O
+Watson B-ORG
+Research I-ORG
+Center E-ORG
+, O
+Hawthorne S-LOC
+, O
+NY S-LOC
+, O
+USA S-LOC
+
+<b> O
+T O
+. O
+Venkatesh O
+, O
+</b> O
+Indian B-ORG
+Institute I-ORG
+of I-ORG
+Technology-Guwahati E-ORG
+, O
+India S-LOC
+
+</div> O
+
+Dept. O
+of O
+Electrical B-ORG
+Engineering E-ORG
+, O
+Princeton B-ORG
+University E-ORG
+, O
+NJ S-LOC
+, O
+USA S-LOC
+
+<b> O
+Jarmo B-PER
+Takala E-PER
+
+<b> O
+Editorial B-ROLE
+Board E-ROLE
+: O
+
+</i> O
+<b> O
+Neal B-PER
+Bambha E-PER
+, O
+</b> O
+<i> O
+US B-ORG
+Army I-ORG
+Research I-ORG
+Laboratory E-ORG
+, O
+USA S-LOC
+
+<b> O
+Andreas B-PER
+Burg E-PER
+, O
+</b> O
+<i> O
+EPFL O
+, O
+Switzerland S-LOC
+
+</i> O
+<b> O
+Joseph B-PER
+Cavallaro E-PER
+, O
+</b> O
+<i> O
+Rice B-ORG
+University E-ORG
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Rong B-PER
+Chen E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Maryland E-ORG
+, O
+Baltimore S-LOC
+County O
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Edwin B-PER
+Sha E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+</<E-ORG> O
+i> O
+<i> O
+Notre B-ORG
+Dame E-ORG
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Chang B-PER
+D. I-PER
+Yoo E-PER
+</b> O
+<i> O
+, O
+KAIST O
+, O
+Republic B-LOC
+of I-LOC
+Korea E-LOC
+
+</i> O
+<b> O
+Qian B-PER
+Zhang E-PER
+, O
+</b> O
+<i> O
+Hong B-ORG
+Kong I-ORG
+University I-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology E-ORG
+, O
+Hong B-LOC
+Kong E-LOC
+
+<b> O
+Antonio B-PER
+Coronato E-PER
+
+Google S-ORG
+, O
+USA S-LOC
+
+<b> O
+Alfredo B-PER
+Cuzzocrea E-PER
+
+<b> O
+Kristof B-PER
+Van I-PER
+Laerhoven E-PER
+
+<b> O
+Paulo B-PER
+Maciel E-PER
+
+<b> O
+Hedda B-PER
+Schmidtke E-PER
+
+<b> O
+Hissam B-PER
+Tawfik E-PER
+
+Sotirios B-PER
+Terzis E-PER
+
+<div O
+id O
+=" O
+editorialboard ROLE
+" O
+class O
+=" O
+placeholder O
+placeholder-editorialBoard O
+u-text-sans-serif O
+"> O
+
+Jean-Philippe B-PER
+Thiran E-PER
+, O
+EPFL S-ORG
+, O
+
+<div O
+id O
+=" O
+editorialboard ROLE
+" O
+class O
+=" O
+placeholder O
+placeholder-editorialBoard O
+u-text-sans-serif O
+"> O
+
+<b> O
+<i> O
+Honorary O
+Editors-ín-Chief O
+</i> O
+
+<b> O
+Heiner B-PER
+Stuckenschmidt E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Mannheim E-ORG
+, O
+Germany S-LOC
+
+<b> O
+<i> O
+Editorial B-ROLE
+Board E-ROLE
+</i> O
+
+Larry B-PER
+Kerschberg E-PER
+</b> O
+, O
+George B-ORG
+Mason I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Michael B-PER
+Kifer E-PER
+</b> O
+, O
+State B-ORG
+University I-ORG
+of I-ORG
+New I-ORG
+York E-ORG
+at O
+Stony B-LOC
+Brook E-LOC
+, O
+USA S-LOC
+
+<b> O
+Tok B-PER
+Wang I-PER
+Ling E-PER
+</b> O
+, O
+National B-ORG
+University I-ORG
+of I-ORG
+Singapore E-ORG
+, O
+Singapore S-LOC
+
+<b> O
+Klaus-Dieter B-PER
+Schewe E-PER
+</b> O
+, O
+Software O
+Competence O
+Center O
+Hagenberg O
+, O
+Austria S-LOC
+
+email O
+: O
+kais-eic O
+@ O
+
+email O
+: O
+kais-eic O
+@ O
+
+Berkeley S-LOC
+, O
+CA S-LOC
+
+Josep B-PER
+Domingo-Ferrer E-PER
+, O
+Universitat B-ORG
+Rovira E-ORG
+i O
+Virgili S-PER
+, O
+Catalonia S-LOC
+
+Sanjay B-PER
+Madria E-PER
+, O
+Missouri B-ORG
+University I-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology E-ORG
+, O
+USA S-LOC
+
+Ralf B-PER
+Möller E-PER
+, O
+Universitat B-ORG
+zu I-ORG
+Lubeck E-ORG
+, O
+Germany S-LOC
+
+Wamberto B-PER
+Vasconcelos E-PER
+, O
+University B-ORG
+of I-ORG
+Aberdeen E-ORG
+, O
+United B-LOC
+Kingdom E-LOC
+
+Yonggang B-PER
+Wen E-PER
+, O
+Nanyang B-ORG
+Technological I-ORG
+University E-ORG
+, O
+Singapore S-LOC
+
+Bernd B-PER
+Ludwig E-PER
+, O
+University B-ORG
+of I-ORG
+Regensburg E-ORG
+
+<div O
+id O
+=" O
+editorialboard ROLE
+" O
+class O
+=" O
+placeholder O
+placeholder-editorialBoard O
+u-text-sans-serif O
+"> O
+
+<b> O
+Editorial B-ROLE
+Board E-ROLE
+: O
+
+</i> O
+Paolo B-PER
+Frasconi E-PER
+, O
+<i> O
+University B-ORG
+of I-ORG
+Florence E-ORG
+
+</i> O
+Derek B-PER
+Greene E-PER
+, O
+<i> O
+University B-ORG
+College I-ORG
+Dublin E-ORG
+
+Eyke B-PER
+Hüllermeier E-PER
+, O
+<i> O
+University B-ORG
+of I-ORG
+Marburg E-ORG
+
+Samy B-PER
+Bengio E-PER
+, O
+<i> O
+Google B-ORG
+, I-ORG
+Inc E-ORG
+. O
+
+</i> O
+Colin B-PER
+De I-PER
+la I-PER
+Higuera E-PER
+, O
+<i> O
+University B-ORG
+of I-ORG
+Nantes E-ORG
+</i> O
+
+</i> O
+Inderjit B-PER
+Dhillon E-PER
+, O
+<i> O
+University B-ORG
+of I-ORG
+Texas E-ORG
+at O
+Austin S-LOC
+
+Tapio B-PER
+Elomaa E-PER
+, O
+<i> O
+Tampere B-ORG
+University I-ORG
+of I-ORG
+Technology E-ORG
+
+</i> O
+Marcus B-PER
+Hutter E-PER
+<i> O
+, O
+Australian B-ORG
+National I-ORG
+University E-ORG
+
+</i> O
+Alexandros B-PER
+Kalousis E-PER
+<i> O
+, O
+University B-ORG
+of I-ORG
+Geneva E-ORG
+
+Adam B-PER
+Klivans E-PER
+<i> O
+, O
+University B-ORG
+of I-ORG
+Texas E-ORG
+at O
+Austin S-LOC
+
+</i> O
+John B-PER
+Langford E-PER
+<i> O
+, O
+Yahoo B-ORG
+! I-ORG
+Research E-ORG
+
+</i> O
+Phillip B-PER
+Long E-PER
+, O
+<i> O
+Google B-ORG
+Research E-ORG
+
+</i> O
+Nina B-PER
+Mishra E-PER
+<i> O
+, O
+Microsoft B-ORG
+Research E-ORG
+
+</i> O
+Sriraam B-PER
+Natarajan E-PER
+<i> O
+, O
+University B-ORG
+of I-ORG
+Texas E-ORG
+
+</i> O
+Foster O
+Provost O
+<i> O
+, O
+New B-ORG
+York I-ORG
+University E-ORG
+</i> O
+
+</i> O
+Jan B-PER
+van I-PER
+Rijn E-PER
+, O
+<i> O
+Leiden B-ORG
+University E-ORG
+
+Maytal B-PER
+Saar-Tsechansky E-PER
+<i> O
+, O
+The O
+University B-ORG
+of I-ORG
+Texas E-ORG
+at O
+Austin S-LOC
+
+</i> O
+Enver B-ORG
+Sangineto E-ORG
+, O
+<i> O
+University B-ORG
+of I-ORG
+Trento E-ORG
+
+</i> O
+Michele B-ORG
+Sebag E-ORG
+<i> O
+, O
+Université B-ORG
+Paris-Sud E-ORG
+
+</i> O
+Masashi B-PER
+Sugiyama E-PER
+<i> O
+, O
+University B-ORG
+of I-ORG
+Tokyo E-ORG
+
+</i> O
+Nikolaj B-ORG
+Tatti E-ORG
+, O
+<i> O
+University B-ORG
+of I-ORG
+Helsinki E-ORG
+
+Yee-Whye B-PER
+Teh E-PER
+<i> O
+, O
+University B-ORG
+College I-ORG
+London E-ORG
+
+<b> O
+Editor ROLE
+in I-ROLE
+Chief E-ROLE
+: O
+
+</i> O
+Gregory B-PER
+R. I-PER
+Wheeler E-PER
+, O
+<i> O
+Frankfurt B-ORG
+School I-ORG
+of I-ORG
+finance I-ORG
+& I-ORG
+amp I-ORG
+; I-ORG
+Management E-ORG
+
+Rahul B-PER
+Sukthankar E-PER
+
+USA S-LOC
+
+National B-ORG
+Institute I-ORG
+of I-ORG
+Advanced I-ORG
+Industrial I-ORG
+Science I-ORG
+and I-ORG
+Technology E-ORG
+
+Marius B-PER
+Leordeanu E-PER
+
+Microsoft B-ORG
+Research E-ORG
+
+Jean-Marc B-PER
+Odobez E-PER
+
+IDIAP S-ORG
+
+Devi B-PER
+Parikh E-PER
+
+Georgia B-ORG
+Institute I-ORG
+of I-ORG
+Technology E-ORG
+
+Fairleigh B-ORG
+Dickinson I-ORG
+University E-ORG
+
+Concetto B-ORG
+Spampinato E-ORG
+
+University B-ORG
+of I-ORG
+Catania E-ORG
+
+USA S-LOC
+
+
+Anton B-PER
+Kummert E-PER
+
+<b> O
+P O
+. O
+Agathoklis O
+</b> O
+, O
+<i> O
+University B-ORG
+of I-ORG
+Victoria E-ORG
+, O
+Canada S-LOC
+; O
+</i> O
+<b> O
+Choon B-PER
+Ki I-PER
+Ahn E-PER
+, O
+PhD O
+, O
+</b> O
+<i> O
+Korea B-ORG
+University E-ORG
+, O
+Korea S-LOC
+</i> O
+; O
+<b> O
+O O
+. O
+Bachelier O
+, O
+</b> O
+<i> O
+Université B-ORG
+de I-ORG
+Poitiers E-ORG
+, O
+France S-LOC
+; O
+</i> O
+<b> O
+J.Cao O
+, O
+</b> O
+<i> O
+Hangzhou B-ORG
+Dianzi I-ORG
+University E-ORG
+, O
+China S-LOC
+; O
+</i> O
+<b> O
+C. O
+- O
+Y O
+. O
+Chang S-PER
+, O
+</b> O
+<i> O
+National B-ORG
+Yunlin I-ORG
+University I-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology E-ORG
+, O
+Taiwan S-LOC
+</i> O
+; O
+<b> O
+D O
+. O
+Fu O
+, O
+</b> O
+<i> O
+Intel O
+, O
+USA S-LOC
+; O
+</i> O
+<b> O
+J O
+. O
+Han O
+, O
+</b> O
+<i> O
+Northwestern B-ORG
+Polytechnical I-ORG
+University E-ORG
+, O
+China S-LOC
+; O
+</i> O
+<b> O
+N.P O
+. O
+Karampetakis O
+, O
+</b> O
+<i> O
+Aristotle B-ORG
+University I-ORG
+of I-ORG
+Thessaloniki E-ORG
+, O
+Greece S-LOC
+</i> O
+; O
+<b> O
+A.H O
+. O
+Kayran O
+, O
+</b> O
+<i> O
+Istanbul B-ORG
+Technical I-ORG
+University E-ORG
+, O
+Turkey S-LOC
+</i> O
+; O
+<b> O
+A O
+. O
+Khong O
+, O
+</b> O
+<i> O
+Nanyang B-ORG
+Technological I-ORG
+University E-ORG
+, O
+Singapore S-LOC
+; O
+</i> O
+<b> O
+X O
+. O
+Lai O
+, O
+</b> O
+<i> O
+Hangzhou B-ORG
+Dianzi I-ORG
+University E-ORG
+, O
+China S-LOC
+; O
+</i> O
+<b> O
+B O
+. O
+Liao O
+</b> O
+, O
+<i> O
+Shenzhen B-ORG
+University E-ORG
+, O
+China S-LOC
+</i> O
+<i> O
+; O
+</i> O
+<b> O
+A O
+. O
+Madanayake O
+, O
+</b> O
+<i> O
+The O
+University B-ORG
+of I-ORG
+Akron E-ORG
+, O
+USA S-LOC
+; O
+</i> O
+<b> O
+Sasan B-ORG
+Mahmoodi E-ORG
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Southampton E-ORG
+; O
+</i> O
+<b> O
+Marek B-PER
+Majewski E-PER
+, O
+PhD O
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Lodz E-ORG
+, O
+Poland S-LOC
+; O
+</i> O
+<b> O
+A O
+. O
+Makur O
+, O
+</b> O
+<i> O
+Nanyang B-ORG
+Technological I-ORG
+University E-ORG
+, O
+Singapore S-LOC
+; O
+</i> O
+<b> O
+L O
+. O
+Ntogramatzidis O
+, O
+</b> O
+<i> O
+Curtin B-ORG
+University E-ORG
+, O
+Australia S-LOC
+; O
+</i> O
+<b> O
+S O
+. O
+Oraintara O
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Texas E-ORG
+, O
+Arlington S-LOC
+, O
+USA S-LOC
+; O
+</i> O
+<b> O
+T-P B-ORG
+Azevedo I-ORG
+Perdicoulis E-ORG
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Tras-os-Montes I-ORG
+e I-ORG
+Alto I-ORG
+Douro E-ORG
+, O
+Portugal S-LOC
+; O
+</i> O
+<b> O
+H O
+. O
+Pillai S-PER
+, O
+</b> O
+<i> O
+Indian B-ORG
+Institue I-ORG
+of I-ORG
+Technology I-ORG
+Bombay E-ORG
+, O
+India S-LOC
+; O
+</i> O
+<i> O
+</i> O
+<b> O
+A O
+. O
+Quadrat O
+, O
+</b> O
+<i> O
+INRIA O
+Sarclay O
+, O
+France S-LOC
+</i> O
+; O
+<b> O
+R O
+. O
+Rabenstein O
+, O
+</b> O
+<i> O
+University B-ORG
+Erlangen-Nuremberg E-ORG
+, O
+Germany S-LOC
+; O
+</i> O
+<b> O
+P O
+. O
+Rapisarda O
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Southampton E-ORG
+, O
+United B-LOC
+Kingdom E-LOC
+; O
+</i> O
+<b> O
+J O
+. O
+Ren O
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Strathclyde E-ORG
+, O
+United B-LOC
+Kingdom E-LOC
+; O
+</i> O
+<b> O
+E O
+. O
+Skubalska-Rafajłowicz O
+</b> O
+<i> O
+<b> O
+, O
+</b> O
+Technical B-ORG
+University I-ORG
+of I-ORG
+Wroclaw E-ORG
+, O
+Poland S-LOC
+; O
+</i> O
+<i> O
+</i> O
+<b> O
+J O
+. O
+Velten O
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Wuppertal E-ORG
+, O
+Germany S-LOC
+</i> O
+; O
+<b> O
+Y O
+. O
+Wang O
+, O
+</b> O
+<i> O
+Beijing B-ORG
+University I-ORG
+of I-ORG
+Chemical I-ORG
+Technology E-ORG
+, O
+China S-LOC
+</i> O
+; O
+<b> O
+Y O
+. O
+Wu O
+, O
+</b> O
+<i> O
+Bar-Ilan B-ORG
+University E-ORG
+, O
+Israel S-LOC
+; O
+</i> O
+<b> O
+H O
+. O
+Zhao O
+, O
+</b> O
+<i> O
+Fairleigh B-ORG
+Dickinson I-ORG
+University E-ORG
+, O
+USA S-LOC
+; O
+</i> O
+<b> O
+X O
+. O
+Zhuang O
+, O
+</b> O
+<i> O
+City B-ORG
+University I-ORG
+of I-ORG
+Hong I-ORG
+Kong E-ORG
+, O
+Hong B-LOC
+Kong E-LOC
+
+</div> O
+
+<b> O
+<i> O
+Editor-in-Chief ROLE
+</i> O
+
+<b> O
+Marie B-PER
+Katsurai E-PER
+, O
+</b> O
+Doshisha B-ORG
+University E-ORG
+, O
+Kyoto S-LOC
+, O
+Japan S-LOC
+
+<b> O
+Rongrong B-PER
+Ji E-PER
+, O
+</b> O
+Xiamen B-ORG
+University E-ORG
+, O
+China S-LOC
+
+<b> O
+Harald B-PER
+Kosch E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Passau E-ORG
+, O
+Germany S-LOC
+
+<b> O
+Clement B-PER
+Leung E-PER
+, O
+</b> O
+Hong B-ORG
+Kong I-ORG
+Baptist I-ORG
+University E-ORG
+, O
+Hong B-LOC
+Kong E-LOC
+
+<b> O
+Qi B-PER
+Wang E-PER
+</b> O
+, O
+Northwestern B-ORG
+Polytechnical I-ORG
+University E-ORG
+, O
+China S-LOC
+
+<b> O
+Hanwang B-PER
+Zhang E-PER
+, O
+</b> O
+National B-ORG
+University I-ORG
+of I-ORG
+Singapore E-ORG
+, O
+Singapore S-LOC
+
+<div O
+id O
+=" O
+editorialboard ROLE
+" O
+class O
+=" O
+placeholder O
+placeholder-editorialBoard O
+u-text-sans-serif O
+"> O
+
+<b> O
+Nadrian B-PER
+C. I-PER
+Seeman E-PER
+</b> O
+, O
+New B-ORG
+York I-ORG
+University E-ORG
+, O
+New B-LOC
+York E-LOC
+, O
+NY S-LOC
+, O
+USA S-LOC
+
+<b> O
+Natalio B-PER
+Krasnogor E-PER
+</b> O
+, O
+Newcastle B-ORG
+University E-ORG
+, O
+Newcastle S-LOC
+upon O
+Tyne S-LOC
+, O
+United B-LOC
+Kingdom E-LOC
+
+<b> O
+Jose B-PER
+Principe E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Florida E-ORG
+, O
+Gainesville S-LOC
+, O
+FL S-LOC
+, O
+USA S-LOC
+
+<b> O
+Carme B-PER
+Torras E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Barcelona E-ORG
+, O
+Barcelona S-LOC
+, O
+Spain S-LOC
+
+<b> O
+Stefan B-PER
+Wermter E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Hamburg E-ORG
+, O
+Hamburg S-LOC
+, O
+Germany S-LOC
+
+<b> O
+Przemysław B-PER
+Prusinkiewicz E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Calgary E-ORG
+, O
+Calgary S-LOC
+, O
+AB S-LOC
+, O
+Canada S-LOC
+
+Thomas B-PER
+Schmidt E-PER
+, O
+University B-ORG
+of I-ORG
+Southern I-ORG
+Denmark E-ORG
+, O
+Odense S-LOC
+, O
+Denmark S-LOC
+
+Konstantinos B-PER
+Exarchos E-PER
+, O
+University B-ORG
+of I-ORG
+Ioannina E-ORG
+, O
+Greece S-LOC
+
+Mehmet B-PER
+Tan E-PER
+, O
+TOBB B-ORG
+University E-ORG
+, O
+Ankara S-LOC
+, O
+Turkey S-LOC
+
+Tamer B-PER
+Kahveci E-PER
+, O
+University B-ORG
+of I-ORG
+Florida E-ORG
+at O
+Gainesville S-LOC
+, O
+USA S-LOC
+
+Yanqing B-PER
+Zhang E-PER
+, O
+Georgia B-ORG
+State I-ORG
+University E-ORG
+, O
+Atlanta S-LOC
+, O
+USA S-LOC
+
+Cognitive O
+
+Noboru B-PER
+Babaguchi E-PER
+, O
+Osaka B-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+Ken-ichi B-PER
+Fukui E-PER
+, O
+Osaka B-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+Kohei B-PER
+Hatano E-PER
+, O
+Kyushu B-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+Raymond B-PER
+J. I-PER
+Mooney E-PER
+, O
+University B-ORG
+of I-ORG
+Texas E-ORG
+at O
+Austin S-LOC
+, O
+USA S-LOC
+
+Shojiro B-PER
+Nishio E-PER
+, O
+Osaka B-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+Tomonobu B-PER
+Ozaki E-PER
+, O
+Nihon B-ORG
+University E-ORG
+, O
+Japan S-LOC
+
+Janusz B-PER
+Sobecki E-PER
+, O
+Wroclaw B-ORG
+University I-ORG
+of I-ORG
+Technology E-ORG
+, O
+Poland S-LOC
+
+Akihiko B-PER
+Konagaya E-PER
+, O
+Tokyo B-ORG
+Institute I-ORG
+of I-ORG
+Technology E-ORG
+, O
+Japan S-LOC
+
+For O
+all O
+queries O
+relating O
+to O
+papers O
+after O
+submission O
+, O
+please O
+contact O
+the O
+Journal B-ORG
+Editorial B-ROLE
+Office E-ORG
+only O
+via O
+“ O
+contact O
+us O
+” O
+at O
+Editorial B-ROLE
+Manager O
+. O
+Do O
+not O
+contact O
+the O
+Editor-in-Chief ROLE
+directly O
+
+</b> O
+Department B-ORG
+of I-ORG
+Information I-ORG
+Security E-ORG
+
+National B-ORG
+University I-ORG
+of I-ORG
+Sciences I-ORG
+and I-ORG
+Technology E-ORG
+( O
+NUST S-ORG
+
+Pakistan S-LOC
+
+Batman B-ORG
+University E-ORG
+
+
+</b> O
+Department B-ORG
+of I-ORG
+Physics E-ORG
+
+<b> O
+Pablo B-PER
+A. I-PER
+Estevez E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Chile E-ORG
+, O
+Chile S-LOC
+
+<b> O
+Weinan B-PER
+Gao E-PER
+</b> O
+, O
+Georgia B-ORG
+Southern I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Fernando B-PER
+Antônio I-PER
+Campos I-PER
+Gomide E-PER
+</b> O
+, O
+UNICAMP S-PER
+, O
+Brazil S-LOC
+
+<b> O
+Miha O
+</b> O
+<b> O
+Moškon S-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Ljubljana E-ORG
+, O
+Slovenia S-LOC
+
+<b> O
+Dario B-PER
+Landa I-PER
+Silva E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Nottingham E-ORG
+, O
+UK S-LOC
+
+Guo-Cheng B-PER
+Wu E-PER
+</b> O
+, O
+Neijiang B-ORG
+Normal I-ORG
+University E-ORG
+, O
+China S-LOC
+
+</i> O
+
+<b> O
+<i> O
+Associate BI-ROLE
+Editors ROLE
+
+<b> O
+Fatemeh B-PER
+Afghah E-PER
+</b> O
+, O
+Northern B-ORG
+Arizona I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+<b> O
+Cecilio B-PER
+Angulo E-PER
+</b> O
+, O
+Technical B-ORG
+University I-ORG
+of I-ORG
+Catalonia E-ORG
+, O
+Spain S-LOC
+
+<b> O
+Antonio B-PER
+Braga E-PER
+</b> O
+, O
+Federal B-ORG
+University I-ORG
+Minas I-ORG
+Gerais E-ORG
+, O
+Brazil S-LOC
+
+<b> O
+Suash B-PER
+Deb E-PER
+, O
+</b> O
+Cambridge B-ORG
+Institute I-ORG
+of I-ORG
+Technology E-ORG
+, O
+UK S-LOC
+
+<b> O
+Bingzhe B-PER
+Li E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Minnesota E-ORG
+, O
+USA S-LOC
+
+<b> O
+Xi B-PER
+Li E-PER
+</b> O
+, O
+Zhejiang B-ORG
+University E-ORG
+, O
+China S-LOC
+
+<b> O
+Jianquan B-PER
+Lu E-PER
+</b> O
+, O
+Southeast B-ORG
+University E-ORG
+, O
+China S-LOC
+
+<b> O
+Qi B-PER
+Wang E-PER
+</b> O
+, O
+Northwestern B-ORG
+Polytechnical I-ORG
+University E-ORG
+, O
+China S-LOC
+
+<b> O
+Wankou B-PER
+Yang E-PER
+</b> O
+, O
+Southeast B-ORG
+University E-ORG
+, O
+China S-LOC
+
+<b> O
+Jun B-PER
+Yu E-PER
+</b> O
+, O
+Hangzhou B-ORG
+Dianzi I-ORG
+University E-ORG
+, O
+China S-LOC
+
+<b> O
+Xian-Ming B-PER
+Zhang E-PER
+</b> O
+, O
+Swinburne B-ORG
+University I-ORG
+of I-ORG
+Technology E-ORG
+, O
+Australia S-LOC
+
+<b> O
+Editorial B-ROLE
+Board E-ROLE
+
+N. B-PER
+Andrei E-PER
+, O
+Research B-ORG
+Institute I-ORG
+for I-ORG
+Informatics E-ORG
+
+K. B-PER
+Burrage E-PER
+, O
+Oxford B-ORG
+University E-ORG
+/ O
+University B-ORG
+of I-ORG
+Queensland E-ORG
+
+K. B-PER
+Diethelm E-PER
+, O
+University B-ORG
+of I-ORG
+Applied I-ORG
+Sciences I-ORG
+Würzburg-Schweinfurt E-ORG
+
+R. B-PER
+Garrappa E-PER
+, O
+University B-ORG
+of I-ORG
+Bari E-ORG
+
+H. B-PER
+Kaneko E-PER
+, O
+Old B-ORG
+Dominion I-ORG
+University E-ORG
+
+Lek-Heng B-PER
+Lim E-PER
+, O
+University B-ORG
+of I-ORG
+Chicago E-ORG
+
+M. B-PER
+Redivo-Zaglia E-PER
+, O
+Università B-PER
+di I-PER
+Padova E-PER
+
+M. B-PER
+Redivo-Zaglia E-PER
+, O
+Università B-PER
+di I-PER
+Padova E-PER
+
+rodriguez O
+@ O
+
+<b> O
+EDITORS ROLE
+
+aladjem O
+@ O
+
+<b> O
+ERIK B-PER
+CUEVAS E-PER
+
+erik.cuevas O
+@ O
+
+salvador.sanchez O
+@ O
+
+debayle O
+@ O
+
+<b> O
+XUELONG O
+
+</b> O
+Northwestern B-ORG
+Polytechnical I-ORG
+University E-ORG
+, O
+China S-LOC
+
+xuelong O
+_ O
+li O
+@ O
+
+a.sowmya O
+@ O
+
+<b> O
+JINHUI B-PER
+TANG E-PER
+
+<div O
+class O
+=" O
+jflow-table O
+"> O
+<div O
+class O
+=" O
+jflow-tr O
+"> O
+<div O
+class O
+=" O
+jflow-td O
+"> O
+Igor O
+B. O
+Gurevich O
+</div> O
+<div O
+class O
+=" O
+jflow-td O
+"> O
+Dr. O
+Sci. O
+( O
+Phys. O
+- O
+Math O
+. O
+) O
+, O
+Federal B-ORG
+Research I-ORG
+Center E-ORG
+“ O
+Computer B-ORG
+Science I-ORG
+and I-ORG
+Control E-ORG
+” O
+, O
+Russian B-ORG
+Academy I-ORG
+of I-ORG
+Sciences E-ORG
+, O
+Moscow S-LOC
+, O
+Russia S-LOC
+</div> O
+</div> O
+
+<b> O
+Editor-in-Chief ROLE
+
+Nelson B-PER
+L E-PER
+. O
+S. B-PER
+da I-PER
+Fonseca E-PER
+, O
+State B-ORG
+University I-ORG
+of I-ORG
+Campinas E-ORG
+, O
+Brazil S-LOC
+
+Mohamed B-PER
+M E-PER
+. O
+E. B-PER
+A. I-PER
+Mahmoud E-PER
+, O
+Tennessee B-ORG
+Tech I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+Mohammad B-PER
+Shojafar E-PER
+, O
+University B-ORG
+of I-ORG
+Surrey E-ORG
+, O
+Uk S-LOC
+
+Shan B-PER
+Zhang E-PER
+, O
+Beihang B-ORG
+University E-ORG
+, O
+China S-LOC
+
+
+<b> O
+Emilia B-PER
+Barakova E-PER
+</b> O
+, O
+Eindhoven B-ORG
+University I-ORG
+of I-ORG
+Technology E-ORG
+, O
+The B-LOC
+Netherlands E-LOC
+
+<b> O
+Jofish B-PER
+Kaye E-PER
+</b> O
+- O
+Mozilla S-ORG
+, O
+USA S-LOC
+
+<b> O
+Alexandra B-PER
+Weilenmann E-PER
+, O
+</b> O
+University B-ORG
+of I-ORG
+Gothenburg E-ORG
+, O
+Sweden S-LOC
+
+<b> O
+Luca B-PER
+Chittaro E-PER
+</b> O
+, O
+HCI O
+Lab O
+, O
+University B-ORG
+of I-ORG
+Udine E-ORG
+, O
+Italy S-LOC
+
+<b> O
+Gheorghita B-PER
+Ghinea E-PER
+</b> O
+, O
+Brunel B-ORG
+University E-ORG
+, O
+UK S-LOC
+
+<b> O
+Kostas B-PER
+Karpouzis E-PER
+</b> O
+, O
+National B-ORG
+Technical I-ORG
+University I-ORG
+of I-ORG
+Athens E-ORG
+, O
+Greece S-LOC
+
+<b> O
+José B-PER
+M. I-PER
+Noguera E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+Jaen E-ORG
+, O
+Spain S-LOC
+
+<b> O
+Enrico B-PER
+Rukzio E-PER
+</b> O
+, O
+Ulm B-ORG
+University E-ORG
+, O
+Germany S-LOC
+
+<b> O
+Elhadi B-PER
+M. I-PER
+Shakshuki E-PER
+</b> O
+, O
+Acadia B-ORG
+University E-ORG
+, O
+Canada S-LOC
+
+Christian B-PER
+Bessiere E-PER
+, O
+Université B-ORG
+Montpellier E-ORG
+2 O
+, O
+France S-LOC
+
+Humberto B-PER
+Bustince E-PER
+, O
+Public B-ORG
+University I-ORG
+of I-ORG
+Pamplona E-ORG
+, O
+Spain S-LOC
+
+F. B-PER
+Javier I-PER
+Cabrerizo E-PER
+, O
+University B-ORG
+of I-ORG
+Granada E-ORG
+, O
+Spain S-LOC
+
+Oscar B-PER
+Cordón E-PER
+, O
+European B-ORG
+Center I-ORG
+of I-ORG
+Soft I-ORG
+Computing E-ORG
+, O
+Spain S-LOC
+
+Francesc B-PER
+Ferri E-PER
+, O
+University B-ORG
+of I-ORG
+Valencia E-ORG
+, O
+Spain S-LOC
+
+Marco B-PER
+Gori E-PER
+, O
+University O
+of O
+Siena S-LOC
+, O
+Italy S-LOC
+
+Álvaro B-PER
+Herrero E-PER
+, O
+University B-ORG
+of I-ORG
+Burgos E-ORG
+, O
+Spain S-LOC
+
+Manuel B-PER
+Mucientes E-PER
+, O
+University B-ORG
+of I-ORG
+Santiago I-LOC
+de I-LOC
+Compostela E-LOC
+, O
+Spain S-LOC
+
+Rainer B-PER
+Unland E-PER
+, O
+Universiät B-LOC
+Duisburg-Essen E-LOC
+, O
+Germany S-LOC
+
+<b> O
+Alexander B-PER
+K. I-PER
+Petrenko E-PER
+
+<b> O
+Sergei B-PER
+A. I-PER
+Abramov E-PER
+
+</b> O
+Dr. B-PER
+Sci. E-PER
+( O
+Phys. O
+– O
+Math O
+. O
+) O
+, O
+Prof. O
+, O
+Keldysh B-ORG
+Institute I-ORG
+of I-ORG
+Applied I-ORG
+Mathematics E-ORG
+, O
+Russian B-ORG
+Academy I-ORG
+of I-ORG
+Sciences E-ORG
+, O
+Moscow S-LOC
+, O
+Russia S-LOC
+
+<b> O
+Editors-in-Chief ROLE
+: O
+
+<b> O
+Advisory BI-ROLE
+Board E-ROLE
+: O
+
+<b> O
+Kang B-PER
+Shin E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Michigan E-ORG
+
+<b> O
+Sanjoy B-PER
+Baruah E-PER
+, O
+</b> O
+<i> O
+The O
+University B-ORG
+of I-ORG
+North I-ORG
+Carolina E-ORG
+at O
+Chapel B-LOC
+Hill E-LOC
+
+</i> O
+<b> O
+Giuseppe B-PER
+Lipari E-PER
+, O
+</b> O
+<i> O
+Scuola O
+Superiore O
+
+DL B-ORG
+Pratt I-ORG
+Bld E-ORG
+, O
+6 O
+Kings B-LOC
+College I-LOC
+Road E-LOC
+
+
+</b> O
+University B-ORG
+of I-ORG
+Waterloo E-ORG
+, O
+Canada S-LOC
+
+<b> O
+Richard B-PER
+Berntsson I-PER
+Svensson E-PER
+
+</b> O
+Technical B-ORG
+University I-ORG
+of I-ORG
+Madrid E-ORG
+, O
+Spain S-LOC
+
+<b> O
+Martin B-PER
+Feather E-PER
+
+Marina B-PER
+Jirotka E-PER
+
+<b> O
+Christos B-PER
+Kalloniatis E-PER
+
+</b> O
+Aalto B-ORG
+University E-ORG
+, O
+Finland S-LOC
+
+</b> O
+Iowa B-ORG
+State I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+Case B-ORG
+Western I-ORG
+Reserve I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+University B-ORG
+of I-ORG
+Cincinnati E-ORG
+, O
+USA S-LOC
+
+</b> O
+University B-ORG
+of I-ORG
+Bergen E-ORG
+, O
+Norway S-LOC
+
+Naveen B-PER
+Prakash E-PER
+
+University B-ORG
+of I-ORG
+Geneva E-ORG
+, O
+Switzerland S-LOC
+
+</b> O
+Georgia B-ORG
+State I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+Missouri B-ORG
+University I-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology E-ORG
+, O
+USA S-LOC
+
+Ji-Feng B-ORG
+ZHANG I-ORG
+, I-ORG
+Academy I-ORG
+of I-ORG
+Mathematics I-ORG
+and I-ORG
+Systems I-ORG
+Sciences E-ORG
+, O
+CAS S-ORG
+, O
+China S-LOC
+
+Jie B-PER
+HUANG E-PER
+, O
+The O
+Chinese B-ORG
+University I-ORG
+of I-ORG
+Hong B-LOC
+Kong E-LOC
+, O
+China S-LOC
+
+Ying-Chang B-ORG
+LIANG E-ORG
+, O
+University B-ORG
+of I-ORG
+Electronic I-ORG
+Science I-ORG
+and I-ORG
+Technology I-ORG
+of I-ORG
+China E-ORG
+, O
+China S-LOC
+
+Teng B-ORG
+LONG E-ORG
+, O
+Beijing B-ORG
+Institute I-ORG
+of I-ORG
+Technology E-ORG
+, O
+China S-LOC
+
+Fuchun B-ORG
+SUN E-ORG
+, O
+Tsinghua B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Jie B-PER
+TANG E-PER
+, O
+Tsinghua B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Xiaofeng B-ORG
+TAO E-ORG
+, O
+Beijing B-ORG
+University I-ORG
+of I-ORG
+Posts I-ORG
+and I-ORG
+Telecommunications E-ORG
+, O
+China S-LOC
+
+Zhengwei B-ORG
+ZHOU E-ORG
+, O
+University B-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology I-ORG
+of I-ORG
+China E-ORG
+, O
+China S-LOC
+
+</div> O
+
+Wolfgang B-PER
+Glänzel E-PER
+</b> O
+, O
+Wolfgang.Glanzel S-PER
+@ O
+
+<b> O
+Boualem B-PER
+Benatallah E-PER
+</b> O
+, O
+University B-ORG
+of I-ORG
+New I-ORG
+South I-ORG
+Wales E-ORG
+, O
+Australia S-LOC
+
+<b> O
+Chun-Feng B-PER
+Liao E-PER
+</b> O
+, O
+National B-ORG
+Chengchi I-ORG
+University E-ORG
+, O
+Taiwan S-LOC
+
+I. B-PER
+Schaefer E-PER
+
+Technical B-ORG
+University I-ORG
+of I-ORG
+Braunschweig E-ORG
+, O
+Germany S-LOC
+
+Prof. O
+Dr. O
+Frédéric B-PER
+Mallet E-PER
+, O
+Université B-ORG
+Côte I-ORG
+d'Azur E-ORG
+, O
+France S-LOC
+
+</div> O
+
+<b> O
+Editor-in-Chief ROLE
+
+<b> O
+Enis B-PER
+Cetin E-PER
+
+aecyy O
+@ O
+
+<b> O
+V O
+. O
+Carotenuto O
+</b> O
+, O
+CNIT O
+, O
+University B-ORG
+of I-ORG
+Naples I-ORG
+Federico I-ORG
+II E-ORG
+, O
+Italy S-LOC
+
+<b> O
+C O
+. O
+Chen O
+, O
+</b> O
+University B-ORG
+of I-ORG
+Central I-ORG
+Florida E-ORG
+, O
+USA S-LOC
+
+<b> O
+A O
+. O
+Farina S-PER
+</b> O
+, O
+Leonardo B-PER
+Company E-PER
+, O
+Italy S-LOC
+
+<b> O
+K O
+. O
+Kose S-PER
+, O
+</b> O
+Memorial B-ORG
+Sloan I-ORG
+Kettering I-ORG
+Cancer I-ORG
+Center E-ORG
+, O
+USA S-LOC
+
+<b> O
+L O
+. O
+Wang O
+</b> O
+, O
+University B-ORG
+of I-ORG
+North I-ORG
+Carolina E-ORG
+at O
+Chapel B-LOC
+Hill E-LOC
+, O
+USA S-LOC
+
+<div O
+id O
+=" O
+editorialboard ROLE
+" O
+class O
+=" O
+placeholder O
+placeholder-editorialBoard O
+u-text-sans-serif O
+"> O
+
+Jie B-PER
+Tang E-PER
+, O
+Tsinghua B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Derek B-PER
+Doran E-PER
+, O
+Wright B-ORG
+State I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+Shang B-PER
+Gao E-PER
+, O
+Jilin B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Jun B-PER
+Huan E-PER
+, O
+University B-ORG
+of I-ORG
+Kansas E-ORG
+, O
+USA S-LOC
+
+Matthieu B-PER
+Latapy E-PER
+, O
+LIP6-CNRS B-ORG
+et I-ORG
+Université I-ORG
+Pierre E-ORG
+et O
+Marie B-PER
+Curie E-PER
+, O
+France S-LOC
+
+Barry B-PER
+Wellman E-PER
+, O
+University B-ORG
+of I-ORG
+Toronto E-ORG
+, O
+Canada S-LOC
+
+<div O
+id O
+=" O
+editorialboard ROLE
+" O
+class O
+=" O
+placeholder O
+placeholder-editorialBoard O
+u-text-sans-serif O
+"> O
+
+Ivor B-PER
+Tsang E-PER
+, O
+Professor O
+of O
+Artificial O
+Intelligence O
+, O
+University B-ORG
+of I-ORG
+Technology I-ORG
+Sydney E-ORG
+( O
+UTS S-ORG
+) O
+, O
+Australia S-LOC
+
+<b> O
+Section B-ROLE
+Editors ROLE
+</b> O
+– O
+Saraju B-ORG
+P. I-ORG
+Mohanty I-ORG
+, I-ORG
+Department I-ORG
+of I-ORG
+Computer I-ORG
+Science I-ORG
+and I-ORG
+Engineering E-ORG
+, O
+University B-ORG
+of I-ORG
+North I-ORG
+Texas E-ORG
+, O
+USA S-LOC
+
+Wil B-PER
+van I-PER
+der I-PER
+Aalst E-PER
+, O
+Process B-ORG
+and I-ORG
+Data I-ORG
+Science E-ORG
+, O
+RWTH B-ORG
+Aachen I-ORG
+University E-ORG
+, O
+Germany S-LOC
+
+Johan B-PER
+van I-PER
+Benthem E-PER
+, O
+Institute B-ORG
+for I-ORG
+Logic I-ORG
+, I-ORG
+Language I-ORG
+and I-ORG
+Computation E-ORG
+, O
+University B-ORG
+of I-ORG
+Amsterdam E-ORG
+, O
+The B-LOC
+Netherlands E-LOC
+
+Johannes B-PER
+Aldert I-PER
+Bergstra E-PER
+, O
+Informatics B-ORG
+Institute E-ORG
+, O
+University B-ORG
+of I-ORG
+Amsterdam E-ORG
+, O
+The B-LOC
+Netherlands E-LOC
+
+Cristian B-PER
+S I-PER
+Calude E-PER
+, O
+Department B-ORG
+of I-ORG
+Computer I-ORG
+Science E-ORG
+, O
+The B-ORG
+University I-ORG
+of I-ORG
+Auckland E-ORG
+, O
+New B-LOC
+Zealand E-LOC
+
+Xiaoming B-ORG
+Fu E-ORG
+, O
+Institute B-ORG
+of I-ORG
+Computer I-ORG
+Science E-ORG
+, O
+Georg-August-University B-ORG
+of I-ORG
+Goettingen E-ORG
+, O
+Germany S-LOC
+
+Jozef B-PER
+Gruska E-PER
+, O
+Faculty B-ORG
+of I-ORG
+Informatics E-ORG
+, O
+Masaryk B-ORG
+University E-ORG
+, O
+Czech B-LOC
+Republic E-LOC
+
+Bertrand B-PER
+Meyer E-PER
+, O
+Politecnico B-ORG
+di I-ORG
+Milano E-ORG
+, O
+Italy S-LOC
+
+Wolfgang B-PER
+Nejdl E-PER
+, O
+Institut B-ORG
+für I-ORG
+Verteilte I-ORG
+Systeme E-ORG
+, O
+Leibniz B-ORG
+University I-ORG
+Hannover E-ORG
+, O
+Germany S-LOC
+
+Franco B-PER
+Zambonelli E-PER
+, O
+Dipartimento B-ORG
+di I-ORG
+Scienze E-ORG
+e O
+Metodi B-PER
+dell'Ingegneria E-PER
+, O
+University B-ORG
+of I-ORG
+Modena E-ORG
+and O
+Reggio B-LOC
+Emilia E-LOC
+, O
+Italy S-LOC
+
+<b> O
+Associate BI-ROLE
+Editors ROLE
+of O
+Sections O
+
+</div> O
+
+<b> O
+Sudipto B-PER
+Ghosh E-PER
+</b> O
+
+</i> O
+<i> O
+Colorado B-ORG
+State I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Jeffrey B-PER
+Carver E-PER
+</b> O
+, O
+<i> O
+University B-ORG
+of I-ORG
+Alabama E-ORG
+, O
+USA S-LOC
+
+<b> O
+Benoit B-PER
+Combemale E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Toulouse E-ORG
+, O
+France S-LOC
+
+</i> O
+<b> O
+Robert B-PER
+Feldt E-PER
+</b> O
+, O
+<i> O
+Chalmers B-ORG
+University I-ORG
+of I-ORG
+Technology E-ORG
+, O
+Sweden S-LOC
+
+</i> O
+<b> O
+Filippo B-PER
+Lanubile E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Bari E-ORG
+, O
+Italy S-LOC
+
+<b> O
+Tim B-PER
+Menzies E-PER
+</b> O
+<i> O
+, O
+North B-ORG
+Carolina I-ORG
+State I-ORG
+University E-ORG
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Marek B-PER
+Reformat E-PER
+</b> O
+, O
+<i> O
+University B-ORG
+of I-ORG
+Alberta E-ORG
+, O
+Canada S-LOC
+
+</i> O
+<b> O
+Philippe B-PER
+Robert E-PER
+</b> O
+, O
+<i> O
+ISOSCOPE O
+, O
+Toulouse S-LOC
+, O
+France S-LOC
+
+</i> O
+<b> O
+Brendan S-PER
+</b> O
+<b> O
+Murphy S-PER
+, O
+</b> O
+<i> O
+University B-ORG
+College I-ORG
+Dublin E-ORG
+, O
+Ireland S-LOC
+
+</i> O
+<b> O
+Sumeetpal B-PER
+S. I-PER
+Singh E-PER
+</b> O
+, O
+<i> O
+Cambridge B-ORG
+University E-ORG
+, O
+UK S-LOC
+
+huseyin.ergin O
+@ O
+
+RWTH B-ORG
+Aachen E-ORG
+, O
+Germany S-LOC
+
+<b> O
+Benoit B-PER
+Baudry E-PER
+</b> O
+( O
+France S-LOC
+
+<b> O
+Nelly B-PER
+Bencomo E-PER
+</b> O
+( O
+UK S-LOC
+) O
+
+<b> O
+Ruth B-PER
+Breu E-PER
+</b> O
+( O
+Austria S-LOC
+
+<b> O
+Lionel B-PER
+Briand E-PER
+</b> O
+( O
+Luxembourg S-LOC
+
+<b> O
+Jordi B-PER
+Cabot E-PER
+</b> O
+( O
+Spain S-LOC
+
+<b> O
+Oystein B-PER
+Haugen E-PER
+</b> O
+( O
+Norway S-LOC
+
+<b> O
+Antonio B-PER
+Vallecillo E-PER
+</b> O
+( O
+Spain S-LOC
+
+Marco B-PER
+Dorigo E-PER
+, O
+Université B-ORG
+Libre I-ORG
+de I-ORG
+Bruxelles E-ORG
+
+Ofer B-PER
+Feinerman E-PER
+, O
+Weizmann B-ORG
+Institute E-ORG
+
+M. B-PER
+Ani I-PER
+Hsieh E-PER
+, O
+Drexel B-ORG
+University E-ORG
+
+Naomi B-PER
+Leonard E-PER
+, O
+Princeton B-ORG
+University E-ORG
+
+John B-PER
+Sutherland E-PER
+, O
+University B-ORG
+of I-ORG
+St. B-LOC
+Andrews E-LOC
+, O
+Scotland S-LOC
+, O
+UK S-LOC
+
+<b> O
+Editorial B-ROLE
+Board E-ROLE
+: O
+
+Olga B-PER
+De I-PER
+Troyer E-PER
+, O
+Vrije B-ORG
+Universiteit I-ORG
+Brussel E-ORG
+, O
+Professor O
+, O
+Belgium S-LOC
+
+Sajid B-PER
+Farooq E-PER
+, O
+Ra'ed B-ORG
+Entertainment I-ORG
+/ I-ORG
+COMSATS E-ORG
+, O
+CEO O
+, O
+Australia S-LOC
+
+Matt B-PER
+Seeney E-PER
+, O
+Gameology B-ORG
+Consultancy E-ORG
+, O
+Director O
+, O
+United B-LOC
+Kingdom E-LOC
+
+Robin B-PER
+Sloan E-PER
+, O
+The B-ORG
+University I-ORG
+of I-ORG
+Abertay I-ORG
+Dundee E-ORG
+, O
+Researcher O
+, O
+United B-LOC
+Kingdom E-LOC
+
+Kasapakis B-PER
+Vlasios E-PER
+, O
+University B-ORG
+of I-ORG
+the I-ORG
+Aegean E-ORG
+, O
+Research B-ORG
+Associate BI-ROLE
+, O
+Greece S-LOC
+
+</b> O
+Shenzhen B-ORG
+University E-ORG
+, O
+China S-LOC
+
+</b> O
+Abeja B-ORG
+, I-ORG
+Inc E-ORG
+. O
+, O
+Japan S-LOC
+, O
+kunii O
+@ O
+
+<b> O
+<i> O
+Editorial B-ROLE
+Board E-ROLE
+</i> O
+
+<b> O
+Nicolas B-PER
+Bonneel E-PER
+
+CNRS B-ORG
+/ I-ORG
+Univ. I-ORG
+Lyon E-ORG
+, O
+France S-LOC
+, O
+nicolas.bonneel O
+@ O
+
+</b> O
+Nanyang B-ORG
+Technological I-ORG
+University E-ORG
+, O
+Singapore S-LOC
+, O
+elpchau O
+@ O
+
+</b> O
+University B-ORG
+of I-ORG
+Haute I-ORG
+Alsace E-ORG
+and O
+University B-ORG
+of I-ORG
+Strasbourg E-ORG
+, O
+France S-LOC
+, O
+Frederic.Cordier S-LOC
+@ O
+
+</b> O
+University B-ORG
+of I-ORG
+Modena E-ORG
+and O
+Reggio B-LOC
+Emilia E-LOC
+, O
+Italy S-LOC
+, O
+massimiliano.corsini O
+@ O
+
+<b> O
+Naser B-PER
+Damer E-PER
+
+</b> O
+York B-ORG
+University E-ORG
+, O
+Canada S-LOC
+, O
+pfal O
+@ O
+
+<b> O
+Xifeng B-PER
+Gao E-PER
+
+<b> O
+Ramakrishna B-PER
+Kakarala E-PER
+
+Florent B-PER
+Lafarge E-PER
+
+<b> O
+Yu-Kun B-PER
+Lai E-PER
+
+<b> O
+Xiaoyang B-PER
+Mao E-PER
+
+</b> O
+University B-ORG
+of I-ORG
+Electronic I-ORG
+Science I-ORG
+and I-ORG
+Technology I-ORG
+of I-ORG
+China E-ORG
+, O
+fmmeng O
+@ O
+
+<b> O
+Ahmad B-PER
+H. I-PER
+Nasri E-PER
+
+<b> O
+George B-PER
+Papagiannakis E-PER
+
+</b> O
+University B-ORG
+of I-ORG
+Crete E-ORG
+, O
+Greece S-LOC
+, O
+papagian O
+@ O
+
+</b> O
+Snap B-ORG
+Inc E-ORG
+. O
+, O
+USA S-LOC
+, O
+renzhou200622 O
+@ O
+
+<b> O
+Jianbing B-PER
+Shen E-PER
+
+</b> O
+Beijing B-ORG
+Institute I-ORG
+of I-ORG
+Technology E-ORG
+, O
+China S-LOC
+, O
+shenjianbingcg O
+@ O
+
+<b> O
+Claudio B-PER
+T. I-PER
+Silva E-PER
+
+</b> O
+Nanyang B-ORG
+Technological I-ORG
+University E-ORG
+, O
+Singapore S-LOC
+, O
+assourin O
+@ O
+
+<b> O
+Tien-Tsin B-PER
+Wong E-PER
+
+</b> O
+Hong B-ORG
+Kong I-ORG
+University I-ORG
+of I-ORG
+Science I-ORG
+and I-ORG
+Technology E-ORG
+( O
+HKUST S-ORG
+) O
+, O
+danxu O
+@ O
+
+Chinese B-ORG
+Academy I-ORG
+of I-ORG
+Sciences E-ORG
+, O
+China S-LOC
+, O
+yandongming O
+@ O
+
+<b> O
+Quanzeng B-PER
+You E-PER
+
+</b> O
+Microsoft B-ORG
+Azure I-ORG
+& I-ORG
+amp E-ORG
+; O
+AI O
+, O
+USA S-LOC
+, O
+quyou O
+@ O
+
+University B-ORG
+of I-ORG
+Texas E-ORG
+at O
+Dallas S-LOC
+, O
+USA S-LOC
+, O
+kzhang O
+@ O
+
+</b> O
+Southeast B-ORG
+University E-ORG
+, O
+China S-LOC
+, O
+wenming O
+_ O
+zheng O
+@ O
+
+Hong B-LOC
+Kong E-LOC
+, O
+SAR S-LOC
+, O
+China S-LOC
+
+Artemidos S-ORG
+6 O
+& O
+amp O
+; O
+Epidavrou S-PER
+
+University B-ORG
+of I-ORG
+Karlsruhe E-ORG
+, O
+Germany S-LOC
+// O
+klemens.boehm O
+@ O
+
+<b> O
+Nicolas B-PER
+Anciaux E-PER
+
+Institut B-ORG
+de I-ORG
+Recherche I-ORG
+pour I-ORG
+le I-ORG
+Développement E-ORG
+( O
+IRD O
+) O
+, O
+France S-LOC
+// O
+laure.berti O
+@ O
+
+<b> O
+Luna B-PER
+Dong E-PER
+
+<b> O
+Zi B-PER
+Helen I-PER
+Huang E-PER
+
+University B-ORG
+of I-ORG
+Miami E-ORG
+
+<b> O
+Harry B-PER
+M. I-PER
+Buhrman E-PER
+
+Kruislaan S-PER
+
+School B-ORG
+of I-ORG
+Computing E-ORG
+
+( O
+combinatorial O
+pattern O
+matching O
+; O
+dynamic O
+data O
+structures O
+; O
+external O
+memory O
+algorithms O
+; O
+string O
+algorithms O
+; O
+text O
+indexing O
+
+lohrey O
+@ O
+
+Universität B-ORG
+Bremen E-ORG
+
+Department B-ORG
+of I-ORG
+Computing E-ORG
+
+Division O
+of O
+ICS S-ORG
+
+Australia S-LOC
+
+<b> O
+Elvira B-PER
+Mayordomo E-PER
+
+Department B-ORG
+of I-ORG
+Informatics E-ORG
+
+Institute B-ORG
+of I-ORG
+Mathematical I-ORG
+Sciences E-ORG
+
+Taramani S-LOC
+, O
+Chennai S-LOC
+, O
+600 O
+113 O
+India S-LOC
+
+D-89069 O
+Ulm S-LOC
+, O
+Germany S-LOC
+
+Computer B-ORG
+Science I-ORG
+Department E-ORG
+
+Institute B-ORG
+of I-ORG
+Computer I-ORG
+Science E-ORG
+( O
+ICS S-ORG
+
+and O
+Tsinghua B-ORG
+University E-ORG
+, O
+Beijing S-LOC
+, O
+China S-LOC
+
+<b> O
+<i> O
+Editorial B-ROLE
+Board E-ROLE
+</i> O
+
+<b> O
+Weiqin B-PER
+Chen E-PER
+, O
+</b> O
+Oslo B-ORG
+Metropolitan I-ORG
+University E-ORG
+, O
+Norway S-LOC
+
+Eleni B-PER
+Efthimiou E-PER
+, O
+</b> O
+Institute B-ORG
+of I-ORG
+Language I-ORG
+and I-ORG
+Speech I-ORG
+Processing E-ORG
+, O
+Greece S-LOC
+
+<b> O
+Iosif B-PER
+Klironomos E-PER
+, O
+</b> O
+FORTH-ICS O
+, O
+Greece S-LOC
+
+<b> O
+Pei-Luen B-PER
+Patrick I-PER
+Rau E-PER
+, O
+</b> O
+Tsinghua B-ORG
+University E-ORG
+, O
+China S-LOC
+
+<b> O
+Konstantinos B-PER
+Votis E-PER
+, O
+</b> O
+Centre B-ORG
+for I-ORG
+Research I-ORG
+and I-ORG
+Technology I-ORG
+Hellas E-ORG
+, O
+Greece S-LOC
+
+<b> O
+Editor-in-Chief ROLE
+
+</b> O
+<i> O
+Utrecht B-ORG
+University E-ORG
+, O
+The B-LOC
+Netherlands E-LOC
+, O
+and O
+University B-ORG
+of I-ORG
+Aberdeen E-ORG
+, O
+UK S-LOC
+
+</i> O
+<b> O
+Cristina B-PER
+Gena E-PER
+<i> O
+, O
+</i> O
+</b> O
+<i> O
+</i> O
+<i> O
+Università B-ORG
+degli I-ORG
+Studi I-ORG
+di I-ORG
+Torino E-ORG
+, O
+Italy S-LOC
+
+<b> O
+Bamshad S-PER
+</b> O
+<b> O
+Mobasher S-PER
+, O
+</b> O
+<i> O
+DePaul B-ORG
+University E-ORG
+, O
+USA S-LOC
+
+</i> O
+<b> O
+Marko B-PER
+Tkalčič E-PER
+, O
+</b> O
+<i> O
+University B-ORG
+of I-ORG
+Primorska E-ORG
+, O
+Slovenia S-LOC
+
+<b> O
+Diego B-PER
+Zapata-Rivera E-PER
+, O
+</b> O
+<i> O
+Educational O
+Testing O
+Service O
+( O
+ETS O
+<S-MISC> O
+) O
+, O
+USA S-LOC
+</i> O
+
+</div> O
+
+<b> O
+Editorial B-ROLE
+Board E-ROLE
+: O
+
+Philip B-PER
+A. I-PER
+Bernstein E-PER
+, O
+<i> O
+Microsoft B-ORG
+Research E-ORG
+, O
+USA S-LOC
+
+Wookey B-PER
+Lee E-PER
+, O
+<i> O
+INHA B-ORG
+University E-ORG
+, O
+Korea S-LOC
+
+Qing B-PER
+Li E-PER
+, O
+<i> O
+City B-ORG
+University I-ORG
+of I-ORG
+Hong B-LOC
+Kong E-LOC
+, O
+China S-LOC
+
+Zhihong B-PER
+Tian E-PER
+, O
+<i> O
+Guangzhou B-ORG
+University E-ORG
+, O
+China S-LOC
+
+Jeffrey B-PER
+Xu I-PER
+Yu E-PER
+, O
+<i> O
+Chinese B-ORG
+University I-ORG
+of I-ORG
+Hong B-LOC
+Kong E-LOC
+, O
+China S-LOC
+
+Prof. O
+Woodrow B-PER
+Barfield E-PER
+( O
+USA S-LOC
+
+HTLab S-ORG
+, O
+Università B-ORG
+degli I-ORG
+Studi I-ORG
+di I-ORG
+Padova E-ORG
+, O
+Italy S-LOC
+
+<b> O
+EDITORIAL B-ROLE
+BOARD E-ROLE
+
+Prof. O
+Doug B-PER
+Bowman E-PER
+, O
+USA S-LOC
+
+Dr. O
+Pietro B-PER
+Cipresso E-PER
+, O
+Italy S-LOC
+
+Dr. O
+Stephen B-PER
+R. I-PER
+Ellis E-PER
+, O
+USA S-LOC
+
+Dr. O
+Thomas B-PER
+Furness E-PER
+, O
+USA S-LOC
+
+Prof. O
+Masahiko B-PER
+Inami E-PER
+, O
+Japan S-LOC
+
+Prof. O
+Kay B-PER
+Stanney E-PER
+, O
+USA S-LOC
+
+Prof. O
+Peter B-PER
+Thomas E-PER
+, O
+Australia S-LOC
+
+</b> O
+Kathryn B-PER
+Baxter E-PER
+
