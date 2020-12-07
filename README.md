@@ -1,4 +1,4 @@
-# Mining Call For Papers
+# Mining Publication related Documents (CFP and Journal Editorial Board)
 
 ## Setup
 
