@@ -326,7 +326,7 @@ class DatabaseHelper:
 
 
     @staticmethod
-    def getLines(dbpath, _publisher):
+    def getLinesTwo(dbpath, _publisher):
         """ Get all the lines from editorial boards """
         conn = sqlite3.connect(str(dbpath))
         cur = conn.cursor()
@@ -352,7 +352,7 @@ class DatabaseHelper:
         return lines
 
     @staticmethod
-    def getTaggedLines(dbpath, _publisher):
+    def getTaggedLinesTwo(dbpath, _publisher):
         """ Get all the lines that were labelled by the pre-trained model """
         conn = sqlite3.connect(str(dbpath))
         cur = conn.cursor()
