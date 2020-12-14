@@ -33,11 +33,9 @@ class SpringerSpider(scrapy.Spider):
 
 		self.log('Saved file %s' % filename)
 
-		#tagger = SequenceTagger.load('ner
-
 		title = response.xpath('//title/text()').get().split("|")[0]
-
-		#yield{'journal': journal,}
+		if title[-1] == " ":
+			title = title[:-1]
 		
 		board = response.xpath('//div[@id="editorialboard"]').get()
 		try:
@@ -50,6 +48,3 @@ class SpringerSpider(scrapy.Spider):
 			pass
 
 		os.system("rm "+filename)
-
-
-
