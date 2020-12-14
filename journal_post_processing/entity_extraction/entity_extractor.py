@@ -55,20 +55,12 @@ def entity_extractor(publisher):
 	if publisher == "ALL":
 		data = DatabaseHelper.getTaggedLines(DB_FILEPATH)
 	else:
-		data = DatabaseHelper.getTaggedLines(DB_FILEPATH, publisher)
+		data = DatabaseHelper.getTaggedLinesTwo(DB_FILEPATH, publisher)
 
 	tagRole = ['<B-ROLE>', '<I-ROLE>', '<E-ROLE>', '<ROLE>', '<BI-ROLE>']
-	tagPer = ['<B-PER>', '<I-PER>', '<E-PER>', ' <S-PER>']
-	tagOrg = ['<B-ORG>', '<I-ORG>', '<E-ORG>', ' <S-ORG>']
-	hasPer = False 
-	hasOrg = False
-	perReady = False # true indicates that the name field is ready to input
-	orgReady = False # true indicates that the org field is ready to input
-
-	journal = ""
-	role = ""
-	name = ""
-	affiliation = ""
+	tagPer = ['<B-PER>', '<I-PER>', '<E-PER>', '<S-PER>']
+	tagOrg = ['<B-ORG>', '<I-ORG>', '<E-ORG>', '<S-ORG>']
+	remained_person = ""
 
 	all_content = role_extractor(tagRole, data) # all_content is a tri-pair of title, role, content
 
@@ -80,125 +72,61 @@ def entity_extractor(publisher):
 		hasPer = False
 		hasOrg = False
 
-		for item in tagPer:
-			if item in content:
-				hasPer = True
-				break
+		ready_to_input, info_tuple, remained_person = intepreter(content, tagPer, tagOrg, remained_person)
 
-		for item in tagOrg:
-			if item in content:
-				hasOrg = True
-				break
+		if ready_to_input:
+			for name, affiliation in info_tuple:
+				name = name.replace("  "," ")
+				affiliation = affiliation.replace("  "," ")	
+				DatabaseHelper.addCrawledItem(items.CrawledItem(publisher=crawledpublisher, title=title, role=role, name=name, affiliation = affiliation), DB_FILEPATH)
 
-		perReady, orgReady, journal, role, name, affiliation = Intepreter(perReady, orgReady, hasPer, hasOrg, tagPer, tagOrg, thisJournal, thisRole, journal, role, name, affiliation, content)
 
-		if perReady and orgReady: #both field are ready to input
-			name = name.replace("  "," ")
-			affiliation = affiliation.replace("  "," ")	
-			DatabaseHelper.addCrawledItem(items.CrawledItem(publisher=crawledpublisher, title=journal, role = role, name=name, affiliation = affiliation), DB_FILEPATH)
-			perReady = False # reset per field state
-			orgReady = False # reset org field state
+def intepreter(content, tagPer, tagOrg, remained_person):
+	
+	info_tuple = []
+	ready_to_input = False # initialize the state as not ready to input value to database
 
-def Intepreter(perReady, orgReady, hasPer, hasOrg, tagPer, tagOrg, thisJournal, thisRole, journal, role, name, affiliation, content):
-
-	if thisJournal != journal or thisRole != role: # not under the field for the same person
-		perReady = False
-		orgReady = False
-		journal = thisJournal
-		role = thisRole
-
-	if orgReady: 
-		orgReady = False # org normally cannot be in front
-
-	per = ""
-	org = ""
-
-	mylist = content.split()
 	pernum = []
-	pertagnum = []
 	orgnum = []
-	orgtagnum = []
-	tempper = []
-	temporg = []
+	mylist = content.split()
+	for i in range(len(mylist)):
+		if mylist[i] in tagPer:
+			pernum.append(i-1)
+		elif mylist[i] in tagOrg:
+			orgnum.append(i-1)
 
-	if hasPer and hasOrg:
-		for i in range(len(mylist)):
-			if mylist[i] in tagPer:
-				pertagnum.append(i)
-				pernum.append(i-1)
-			if mylist[i] in tagOrg:
-				orgtagnum.append(i)
-				orgnum.append(i-1)
+	if len(pernum)+len(orgnum) == 0:
+		return ready_to_input, info_tuple, remained_person # no useful entity found in the process
 
-		for i in range(len(mylist)):
+	entity_list = [] # a list of entities extracted, in form of entity followed by type 
 
-			if perReady and orgReady:
-				break
-			elif i in pernum:
-				if i + 2 in pernum: # next word still editor word
-					tempper.append(mylist[i])
-				else: # this is the last editor word:
-					for word in tempper:
-						per = per + word + " "
-					per = per + mylist[i]
-					perReady = True
-			elif i in orgnum:
-				if i + 2 in orgnum: # next word still editor word
-					temporg.append(mylist[i])
-				else: # this is the last editor word:
-					for word in temporg:
-						org = org + word + " "
-					org = org + mylist[i]
-					orgReady = True
-			elif i in orgtagnum: # <org>
-				pass
-			elif i in pertagnum: # <per>
-				pass
+	if remained_person != "":
+		entity_list.append((remained_person, "per"))
 
-	elif hasPer:
-		for i in range(len(mylist)):
-			if mylist[i] in tagPer:
-				pertagnum.append(i)
-				pernum.append(i-1)
+	per_buffer = ""
+	org_buffer = ""
+	for i in range (len(mylist)):
+		if i in pernum:
+			if i + 2 in pernum: # next token still for the same person
+				per_buffer = per_buffer + mylist[i] + " "
+			else: # this is the last token
+				per_buffer = per_buffer + mylist[i]
+				entity_list.append((per_buffer, "per"))
+				per_buffer = ""
+		elif i in orgnum:
+			if i + 2 in orgnum: # next token still for the same organisation
+				org_buffer = org_buffer + mylist[i] + " "
+			else: # this is the last token
+				org_buffer = org_buffer + mylist[i]
+				entity_list.append((org_buffer, "org"))
+				org_buffer = ""
 
-		for i in range(len(mylist)):
-			if i in pernum:
-				if i + 2 in pernum: # next word still editor word
-					tempper.append(mylist[i])
-				else: # this is the last editor word:
-					for word in tempper:
-						per = per + word + " "
-					per = per + mylist[i]
-					break
-			elif i in pertagnum: # <per>
-				pass
-		perReady = True
+	for j in range(len(entity_list)):
+		if j == len(entity_list)-1 and entity_list[j][1] == "per": # the last entity is per
+			remained_person = entity_list[j][0]
+		elif j < len(entity_list)-1 and entity_list[j][1] == "per" and entity_list[j+1][1] == "org":
+			ready_to_input = True
+			info_tuple.append((entity_list[j][0], entity_list[j+1][0]))
+			remained_person = ""
 
-	elif hasOrg:
-		for i in range(len(mylist)):
-			if mylist[i] in tagOrg:
-				orgtagnum.append(i)
-				orgnum.append(i-1)
-
-		for i in range(len(mylist)):
-			if i in orgnum:
-				if i + 2 in orgnum: # next word still editor word
-					temporg.append(mylist[i])
-				else: # this is the last editor word:
-					for word in temporg:
-						org = org + word + " "
-					org = org + mylist[i]
-					break
-			elif i in orgtagnum: # <per>
-				pass
-		orgReady = True
-
-	else:
-		pass
-
-	name = per
-	affiliation = org
-	return perReady, orgReady, journal, role, name, affiliation
-
-if __name__ == "__main__":
-    entity_extractor("ALL")
+	return ready_to_input, info_tuple, remained_person
