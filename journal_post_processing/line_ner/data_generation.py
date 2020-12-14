@@ -80,6 +80,8 @@ def preTagging(publisher):
 	counter = 0
 	for row in data:
 		output = ""
+		if row[0] == "": # skip empty lines 
+			continue
 		sentence = Sentence(row[0])
 		tagger.predict(sentence)
 		tagged = sentence.to_tagged_string()
