@@ -1,26 +1,37 @@
 import argparse
 import sqlite3
+import os
+import sys
+sys.path.append("..") 
+
+from database.database_config import DB_FILEPATH
+from database.database_helper import DatabaseHelper
 
 from process_lines import add_page_lines
 from svm_line_classification.svm_predict_lines import svm_predict_lines
 from dl_line_classification.rnn_predict_lines import rnn_predict_lines, LineClassifier
 from info_extraction.extraction import extract_line_information
-from utils import create_tables
 
+'''
 parser = argparse.ArgumentParser(description='')
 parser.add_argument('db_filepath', type=str,
                     help="Specify database file to predict lines")
 args = parser.parse_args()
-
-cnx = sqlite3.connect(args.db_filepath)
+'''
+cnx = sqlite3.connect(DB_FILEPATH)
 cur = cnx.cursor()
-create_tables(cnx)
 
+DatabaseHelper.create_db_post(DB_FILEPATH)
+
+temp = cur.execute("SELECT DISTINCT conf_id FROM ConferencePages ORDER BY conf_id ASC").fetchall()
 # Indexes of accessible conferences to process
 PROCESS_LINES = True
-PREDICT_LINES_DL = True
-EXTRACT_INFO = True
-CONF_IDS = [1]
+PREDICT_LINES_DL = False
+EXTRACT_INFO = False
+CONF_IDS = []
+
+for item in temp:
+  CONF_IDS.append(item[0])
 
 """ Process Lines
 - Processes HTML of each page to lines, ordered by conference_id
