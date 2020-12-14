@@ -43,7 +43,7 @@ class SpringerJournal(scrapy.Spider):
 			journal_code = re.split('"', str_temp)[0]
 			url = 'https://www.springer.com/journal/'+journal_code+'/editors'
 			str_temp = re.split("</a></h3>", str_target)[0] 
-			title = re.split(">", str_temp)[-1]
+			title = re.split(">", str_temp)[-1].replace("amp;","")
 
 			DatabaseHelper.addJournal(JournalInfoItem(title=title, publisher="Springer", url=url), DB_FILEPATH)
 			
