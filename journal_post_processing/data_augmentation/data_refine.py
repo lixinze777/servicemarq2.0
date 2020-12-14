@@ -212,13 +212,6 @@ def dataAugment(file_name, AUGMENT_THRESHOLD):
 		file.close()
 		print(file_name + " augmented\n")
 
-		try:
-			os.system("rm traintemp.txt")
-			os.system("rm testtemp.txt")
-			os.system("rm devtemp.txt")
-		except:
-			pass
-
 
 if __name__ == "__main__":
 
