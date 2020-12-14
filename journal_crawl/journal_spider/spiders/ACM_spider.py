@@ -33,7 +33,9 @@ class ACMSpider(scrapy.Spider):
 
 		self.log('Saved file %s' % filename)
 
-		title = response.xpath('//title/text()').get().split("|")[0]
+		title = response.xpath('//span[contains(@class, "title h1-styling")]').get()[31:-7]
+		if title[-1] == " ":
+			title = title[:-1]
 
 		board = response.xpath('//div[@class="row"]').get()
 		
@@ -45,6 +47,3 @@ class ACMSpider(scrapy.Spider):
 				DatabaseHelper.addLine(JournalLineItem(publisher="ACM", title=title, line=line), DB_FILEPATH)
 
 		os.system("rm "+filename)
-
-
-
