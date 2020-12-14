@@ -1,4 +1,5 @@
 import sqlite3
+import os
 import sys
 sys.path.append("..") 
 
@@ -15,7 +16,7 @@ from entity_extraction.entity_extractor import *
 
 SET_CORPUS = False
 GENERATE_DATA = False
-PREDICT_LINES = False
+PREDICT_LINES = True
 EXTRACT_INFO = True
 
 DatabaseHelper.create_db_post(DB_FILEPATH)
@@ -44,12 +45,12 @@ if SET_CORPUS:
 - Uses "ALL" if you want to mix data from all different publishers, otherwise specify publisher name
 """
 if GENERATE_DATA:
-	publisher = "ALL"
+	publisher = "Springer"
 	taggedData = preTagging(publisher)
 	TEST_THRESHOLD = 0.1 # 0.1 means 0.1 of the data will be used as test data
 	AUGMENT_THRESHOLD = 1 # 0 means no augmentation, 1 means 100% augmentation
 	''' data generation'''
-	generateTestCase("ALL", taggedData, TEST_THRESHOLD)
+	generateTestCase(publisher, taggedData, TEST_THRESHOLD)
 	''' data noise removal: correction layer'''
 	removeDataNoise("surname", "line_ner/datatrain_"+publisher+".txt", "traintemp.txt")
 	removeDataNoise("surname", "line_ner/datatest_"+publisher+".txt", "testtemp.txt")
@@ -63,12 +64,15 @@ if GENERATE_DATA:
 	dataAugment("data_augmentation/refinedatatest_"+publisher+".txt", AUGMENT_THRESHOLD)
 	dataAugment("data_augmentation/refinedatadev_"+publisher+".txt", AUGMENT_THRESHOLD)
 
+	os.system("rm traintemp.txt")
+	os.system("rm testtemp.txt")
+	os.system("rm devtemp.txt")
 
 """ Predict Lines
 - Adds prediction of line information. Use "ALL" to predict for all publishers
 """
 if PREDICT_LINES:
-	publisher = "ALL"
+	publisher = "Springer"
 	tagger = ner_tagging.ner_tagger.NER_Tagger()
 	tagger.tag_sentences(publisher) 
 
@@ -88,9 +92,6 @@ if EXTRACT_INFO:
 	role_id = int(cur.execute("SELECT count(*) FROM PersonRole").fetchone()[0])
 
 	for pub, jour, role, per, org in crawled:
-
-		if per is None:
-			continue
 
 		''' insert into Persons table'''
 		try:
@@ -122,13 +123,10 @@ if EXTRACT_INFO:
 				aff_id = aff_id + 1
 				conn.commit()
 		except:
-			passpyth
+			pass
 
 		''' insert into PersonRole table'''
-		
-
-		if jour[-1] == " ":
-			jour = jour[:-1]
+		print(jour)
 		doc_id = cur.execute("SELECT id FROM journalInfo WHERE title = '"+jour+"'").fetchone()[0]
 
 		if hasper is None: 
@@ -141,4 +139,3 @@ if EXTRACT_INFO:
 
 	cur.close()
 	conn.close()
-
