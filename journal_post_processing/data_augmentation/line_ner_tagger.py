@@ -2,14 +2,15 @@ from flair.data import Corpus
 from flair.embeddings import TokenEmbeddings, WordEmbeddings, StackedEmbeddings, BytePairEmbeddings
 from flair.datasets import ColumnCorpus
 from typing import List
+import sys
 
 
 # 1. get the corpus
 #corpus: Corpus = UD_ENGLISH().downsample(0.1)
 #corpus = corpus.downsample(0.06125)
 columns = {0:'text', 1:'ner'}
-data_folder = '/home/wing.nus/xinze/journal-mining/journal_crawl/post_processing/data_augmentation'
-corpus: Corpus = ColumnCorpus(data_folder, columns, train_file = 'refinedatatrain.txt', test_file = 'refinedatatest.txt', dev_file = 'refinedatadev.txt')
+data_folder = sys.path[1]
+corpus: Corpus = ColumnCorpus(data_folder, columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'valid.txt')
 print(corpus)
 
 # 2. tag do to predict?
@@ -43,7 +44,7 @@ from flair.trainers import ModelTrainer
 trainer: ModelTrainer = ModelTrainer(tagger, corpus)
 
 # 7. start training
-trainer.train('resources/taggers/bpe',
+trainer.train('resources/taggers/bpe-springer-1207',
               learning_rate=0.1,
               mini_batch_size=32,
               max_epochs=100)
