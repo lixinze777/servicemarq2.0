@@ -1,4 +1,4 @@
-# Mining Publication related Documents (CFP and Journal Editorial Board)
+# Mining Service Contribution from Web-Based Journal Listings
 
 ## Setup
 
