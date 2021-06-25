@@ -14,7 +14,7 @@ Installation of python packages:
 pip install -r requirements.txt
 ```
 
-## Conference Crawling
+## Journal Crawling
 ### Run Crawler
 ```
 python crawl.py <CRAWL_TYPE>
