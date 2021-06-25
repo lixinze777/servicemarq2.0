@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "run_ner2.py", line 14, in <module>
+    from pytorch_transformers import (WEIGHTS_NAME, AdamW, BertConfig,
+ModuleNotFoundError: No module named 'pytorch_transformers'
