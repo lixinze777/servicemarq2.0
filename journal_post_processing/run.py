@@ -8,14 +8,16 @@ from database.database_helper import DatabaseHelper
 
 from line_ner.data_generation import preTagging
 from line_ner.data_generation import generateTestCase
+from line_ner.text_corpus_generation import generateTextCorpus
 from data_augmentation.data_refine import removeDataNoise
 from data_augmentation.data_refine import dataAugment
 import ner_tagging.ner_tagger
 from entity_extraction.entity_extractor import *
 
 
-SET_CORPUS = False
-GENERATE_DATA = False
+SET_CORPUS = True
+GENERATE_TEXT_CORPUS = True
+GENERATE_DATA = True
 PREDICT_LINES = True
 EXTRACT_INFO = True
 
@@ -40,6 +42,12 @@ if SET_CORPUS:
 		surname = line[:-1].lower()
 		if surname != " ":
 			DatabaseHelper.addCorpus(DB_FILEPATH, "surname", surname)
+
+if GENERATE_TEXT_CORPUS:
+	publisher = "Springer"
+	TEST_THRESHOLD = 0.1
+	generateTextCorpus(publisher, TEST_THRESHOLD)
+
 
 """ Generate Test Data 
 - Uses "ALL" if you want to mix data from all different publishers, otherwise specify publisher name
